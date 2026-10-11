@@ -1,0 +1,12 @@
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\bin\Debug\net8.0\Bookstore.Common.deps.json
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\bin\Debug\net8.0\Bookstore.Common.dll
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\bin\Debug\net8.0\Bookstore.Common.pdb
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.AssemblyInfoInputs.cache
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.AssemblyInfo.cs
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.dll
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\refint\Bookstore.Common.dll
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.pdb
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\ref\Bookstore.Common.dll
+C:\Users\Андрей\Pictures\Андрей\Институт\ООП\Bookstore\Bookstore.Common\obj\Debug\net8.0\Bookstore.Common.sourcelink.json

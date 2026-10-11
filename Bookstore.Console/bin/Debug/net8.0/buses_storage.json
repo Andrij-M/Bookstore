@@ -1,0 +1,6002 @@
+[
+  {
+    "Id": "88e362c6-2a80-4bd2-834f-0a3a99b055eb",
+    "Model": "Volvo",
+    "Capacity": 62,
+    "Mileage": 306280.73
+  },
+  {
+    "Id": "b61f1acd-6d85-4d53-a406-a3432920ed14",
+    "Model": "Scania",
+    "Capacity": 43,
+    "Mileage": 68406.72
+  },
+  {
+    "Id": "fe3e540c-6e59-44b6-98f4-2f0bd4ffd580",
+    "Model": "Volvo",
+    "Capacity": 41,
+    "Mileage": 254923.63
+  },
+  {
+    "Id": "36526bd9-c3f3-444b-a928-6eb2c5b36e54",
+    "Model": "Mercedes-Benz",
+    "Capacity": 55,
+    "Mileage": 282772.11
+  },
+  {
+    "Id": "eb314133-96db-40a9-bd66-ca936d8081d2",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 45,
+    "Mileage": 263093.11
+  },
+  {
+    "Id": "fe5d7796-af8e-43c4-a195-14ca2c8a69b4",
+    "Model": "MAN",
+    "Capacity": 31,
+    "Mileage": 270258.03
+  },
+  {
+    "Id": "f2c2fdca-a397-4b66-9fbd-81810a2d3d29",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 356869.00
+  },
+  {
+    "Id": "e255034c-b3a9-4531-8b62-29d2ce62b17b",
+    "Model": "Scania",
+    "Capacity": 21,
+    "Mileage": 304976.16
+  },
+  {
+    "Id": "d1ec400b-7f7a-4d1d-b692-50731a7bc245",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 32,
+    "Mileage": 393652.48
+  },
+  {
+    "Id": "12d061d9-e31b-45fc-bd68-27cdad0969d4",
+    "Model": "Volvo",
+    "Capacity": 31,
+    "Mileage": 358496.31
+  },
+  {
+    "Id": "186e5043-403f-406c-aa7c-90bf00a045e9",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 49,
+    "Mileage": 222032.76
+  },
+  {
+    "Id": "05eb914a-6438-4274-b030-dd2daa001747",
+    "Model": "Volvo",
+    "Capacity": 25,
+    "Mileage": 158966.10
+  },
+  {
+    "Id": "94cd4631-84a6-4b76-965c-cbdfb9b849f8",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 27,
+    "Mileage": 216840.78
+  },
+  {
+    "Id": "b4c15909-0c19-401e-bc4d-641f97b73817",
+    "Model": "Ikarus",
+    "Capacity": 62,
+    "Mileage": 383886.01
+  },
+  {
+    "Id": "c0d0454f-496f-4ca1-817e-bf22f40ded14",
+    "Model": "Ikarus",
+    "Capacity": 36,
+    "Mileage": 180127.40
+  },
+  {
+    "Id": "6a76070c-d262-4976-84bd-d9f2f6483502",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 58,
+    "Mileage": 253754.69
+  },
+  {
+    "Id": "66f652fc-0af3-4ac4-9a55-3d43f17361d3",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 58,
+    "Mileage": 44845.94
+  },
+  {
+    "Id": "b339f64d-9d4f-4a71-80d1-3c8b3a962080",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 55,
+    "Mileage": 227887.01
+  },
+  {
+    "Id": "209b48fc-b028-4499-acf2-2b84e764865f",
+    "Model": "MAN",
+    "Capacity": 31,
+    "Mileage": 279133.66
+  },
+  {
+    "Id": "ee8a278f-c473-4c95-b54e-5867d27b5c37",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 63285.03
+  },
+  {
+    "Id": "1ecd153d-f024-461b-b07e-f752cda9aa1c",
+    "Model": "MAN",
+    "Capacity": 58,
+    "Mileage": 387736.65
+  },
+  {
+    "Id": "94d16f43-9fbc-43d4-96ff-3edb3be4a657",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 62,
+    "Mileage": 325473.22
+  },
+  {
+    "Id": "bb838bb9-369d-4681-90d8-ed6b7497b009",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 51,
+    "Mileage": 397908.70
+  },
+  {
+    "Id": "f5a2fcd1-d48a-4cbb-b78b-35d39a8e527a",
+    "Model": "MAN",
+    "Capacity": 20,
+    "Mileage": 83166.66
+  },
+  {
+    "Id": "8e7cc605-2eee-455a-8b88-5f533402162b",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 44,
+    "Mileage": 336402.15
+  },
+  {
+    "Id": "546d0716-aacd-4305-88e5-747704220a6c",
+    "Model": "Ikarus",
+    "Capacity": 26,
+    "Mileage": 192977.63
+  },
+  {
+    "Id": "98e8be9f-b50f-413b-af03-9f64c63c501f",
+    "Model": "Scania",
+    "Capacity": 24,
+    "Mileage": 74550.13
+  },
+  {
+    "Id": "658ccab6-91ea-4847-a770-9cf645004299",
+    "Model": "MAN",
+    "Capacity": 48,
+    "Mileage": 260302.83
+  },
+  {
+    "Id": "a5195655-c7ec-44c9-8cbc-33582ce63fa1",
+    "Model": "Scania",
+    "Capacity": 28,
+    "Mileage": 260700.42
+  },
+  {
+    "Id": "df14714f-3b34-4bab-8eb3-431e493bc59a",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 51,
+    "Mileage": 141925.23
+  },
+  {
+    "Id": "ea7bd495-4817-4fa9-8123-559c6ddd3c2b",
+    "Model": "Ikarus",
+    "Capacity": 43,
+    "Mileage": 308666.36
+  },
+  {
+    "Id": "86b84b4b-9a0e-481b-943d-634551c32f84",
+    "Model": "Ikarus",
+    "Capacity": 55,
+    "Mileage": 170343.68
+  },
+  {
+    "Id": "6fba84c4-13d6-4271-94ab-e50ebbeca6fe",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 24,
+    "Mileage": 3285.64
+  },
+  {
+    "Id": "542786fa-a5ae-4266-94a4-a105d9f93f9c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 22,
+    "Mileage": 72089.51
+  },
+  {
+    "Id": "f1dfd778-f9e5-4269-abde-86740ae7b87d",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 30659.69
+  },
+  {
+    "Id": "ffb0cd29-7d38-4ab3-9c97-a79b7424d642",
+    "Model": "Ikarus",
+    "Capacity": 27,
+    "Mileage": 273822.42
+  },
+  {
+    "Id": "b383fc57-989e-44e3-a652-d58c19ca9679",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 50,
+    "Mileage": 73829.89
+  },
+  {
+    "Id": "210b0dfd-807d-4a49-9c2d-f65459a7cf08",
+    "Model": "Scania",
+    "Capacity": 28,
+    "Mileage": 185390.72
+  },
+  {
+    "Id": "9f30e8b3-1907-4965-a62b-a71ebabe4165",
+    "Model": "Mercedes-Benz",
+    "Capacity": 28,
+    "Mileage": 228797.97
+  },
+  {
+    "Id": "46075eee-d074-439a-a14b-db78098c7e17",
+    "Model": "MAN",
+    "Capacity": 23,
+    "Mileage": 151949.72
+  },
+  {
+    "Id": "8195211c-9bb8-48fa-9e27-449d9fc40169",
+    "Model": "Scania",
+    "Capacity": 58,
+    "Mileage": 314878.95
+  },
+  {
+    "Id": "ea821be1-1fd3-427b-ac46-57fc9a32f6a7",
+    "Model": "Scania",
+    "Capacity": 27,
+    "Mileage": 333317.50
+  },
+  {
+    "Id": "12601aa1-da4e-4ed3-940d-435122d79c4c",
+    "Model": "Scania",
+    "Capacity": 35,
+    "Mileage": 167011.98
+  },
+  {
+    "Id": "9c5c38cc-eb1f-41f2-8c0a-1322ba400a3b",
+    "Model": "Scania",
+    "Capacity": 25,
+    "Mileage": 29189.79
+  },
+  {
+    "Id": "fd5642e9-4871-480a-bd62-a9f6504a5488",
+    "Model": "Mercedes-Benz",
+    "Capacity": 29,
+    "Mileage": 7940.03
+  },
+  {
+    "Id": "32291a68-5fbf-4743-876a-719e386cdeaa",
+    "Model": "Volvo",
+    "Capacity": 31,
+    "Mileage": 240401.38
+  },
+  {
+    "Id": "43efbecf-98e0-4e26-b6ef-89a3a2de105f",
+    "Model": "Scania",
+    "Capacity": 19,
+    "Mileage": 156689.24
+  },
+  {
+    "Id": "bba14d8a-357c-4af8-a867-423570b55821",
+    "Model": "MAN",
+    "Capacity": 32,
+    "Mileage": 140368.85
+  },
+  {
+    "Id": "dfba7955-a236-44d0-9425-8af10f247f45",
+    "Model": "Ikarus",
+    "Capacity": 46,
+    "Mileage": 147722.33
+  },
+  {
+    "Id": "ab288c56-3425-45be-a3ea-6d4535cbce8c",
+    "Model": "Volvo",
+    "Capacity": 31,
+    "Mileage": 29370.13
+  },
+  {
+    "Id": "8e99950c-a851-403c-80f4-937a98219ba2",
+    "Model": "Mercedes-Benz",
+    "Capacity": 26,
+    "Mileage": 145255.98
+  },
+  {
+    "Id": "c108c9b1-58a9-4d43-842a-30218b697e34",
+    "Model": "Ikarus",
+    "Capacity": 57,
+    "Mileage": 101991.30
+  },
+  {
+    "Id": "14a1ee1a-f25a-41fd-a9e5-de3f7b7b9f88",
+    "Model": "Volvo",
+    "Capacity": 35,
+    "Mileage": 179832.07
+  },
+  {
+    "Id": "a570e2fe-f5e4-4d07-a7dd-3f42261db80c",
+    "Model": "Scania",
+    "Capacity": 26,
+    "Mileage": 62376.93
+  },
+  {
+    "Id": "e7eabe30-db7c-4c2c-aaf5-4acd85d86811",
+    "Model": "Scania",
+    "Capacity": 27,
+    "Mileage": 85233.84
+  },
+  {
+    "Id": "efe5c6b8-878c-4dda-968a-df41e384652f",
+    "Model": "Scania",
+    "Capacity": 56,
+    "Mileage": 78712.19
+  },
+  {
+    "Id": "870bde98-f34e-4037-9d31-e266063b9d47",
+    "Model": "Ikarus",
+    "Capacity": 39,
+    "Mileage": 24820.49
+  },
+  {
+    "Id": "377e875c-de06-4217-addf-c03f1c08df81",
+    "Model": "Scania",
+    "Capacity": 61,
+    "Mileage": 373326.62
+  },
+  {
+    "Id": "65ce5a4e-0a64-4603-a546-b5c4c30ca0bb",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 20,
+    "Mileage": 375914.01
+  },
+  {
+    "Id": "a08a3bdf-ef37-439a-b2ca-c11e3754eb7b",
+    "Model": "Volvo",
+    "Capacity": 38,
+    "Mileage": 6013.46
+  },
+  {
+    "Id": "4dd94fa5-088c-405e-88f1-beae13efc2e1",
+    "Model": "MAN",
+    "Capacity": 46,
+    "Mileage": 20695.00
+  },
+  {
+    "Id": "b4c4dfb3-aca7-4e1b-af3d-90c40cddbd32",
+    "Model": "Scania",
+    "Capacity": 26,
+    "Mileage": 233364.26
+  },
+  {
+    "Id": "cc42fe43-6fb3-489d-9e48-58a2365dafec",
+    "Model": "Scania",
+    "Capacity": 59,
+    "Mileage": 332256.65
+  },
+  {
+    "Id": "e3d1acdf-1406-4641-96dd-04b403a06358",
+    "Model": "MAN",
+    "Capacity": 27,
+    "Mileage": 183040.11
+  },
+  {
+    "Id": "1437d308-1956-4b0a-837e-29259970dc76",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 21,
+    "Mileage": 317025.32
+  },
+  {
+    "Id": "ad585bbe-2a40-4aa1-a93d-a87158136d90",
+    "Model": "Mercedes-Benz",
+    "Capacity": 55,
+    "Mileage": 134321.29
+  },
+  {
+    "Id": "6e5b3240-5ed5-4f86-86e6-6f78a3b5056b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 64,
+    "Mileage": 345726.31
+  },
+  {
+    "Id": "a77a28f3-4ab4-49ca-9d22-7ccd8c7d461f",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 48,
+    "Mileage": 308757.98
+  },
+  {
+    "Id": "add69c1e-aa5a-4ea0-aa6e-a3b695da0f65",
+    "Model": "MAN",
+    "Capacity": 61,
+    "Mileage": 12055.37
+  },
+  {
+    "Id": "5278b78e-7cde-46cb-8bd6-3e37d28702ed",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 20,
+    "Mileage": 108535.43
+  },
+  {
+    "Id": "49d7a25a-61b0-4b10-9f17-a40d97a57d3d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 37,
+    "Mileage": 347474.01
+  },
+  {
+    "Id": "785ca643-845e-4ea9-abee-88046097bbc5",
+    "Model": "Mercedes-Benz",
+    "Capacity": 26,
+    "Mileage": 338233.02
+  },
+  {
+    "Id": "c9348cd9-b494-4c22-8ee8-1719ddd88dfd",
+    "Model": "Volvo",
+    "Capacity": 18,
+    "Mileage": 104799.01
+  },
+  {
+    "Id": "4d3b3f11-3e28-45fd-9256-5b135b8169e5",
+    "Model": "Mercedes-Benz",
+    "Capacity": 38,
+    "Mileage": 16074.65
+  },
+  {
+    "Id": "7249f776-c849-4e20-9274-2ef733c57cce",
+    "Model": "Volvo",
+    "Capacity": 52,
+    "Mileage": 201942.59
+  },
+  {
+    "Id": "b6d9601c-353b-479d-8781-505b893203b6",
+    "Model": "Scania",
+    "Capacity": 50,
+    "Mileage": 216118.39
+  },
+  {
+    "Id": "2508ee21-a0e5-4f71-b455-5656cfb032a9",
+    "Model": "Ikarus",
+    "Capacity": 41,
+    "Mileage": 301798.19
+  },
+  {
+    "Id": "75ae6536-e0c8-4e01-a364-690442c6a276",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 207635.52
+  },
+  {
+    "Id": "0ca62eec-5f72-48da-a0cd-73ff2bad9d3d",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 33,
+    "Mileage": 168495.83
+  },
+  {
+    "Id": "14086699-d554-40d5-ab40-d431e08628ee",
+    "Model": "Mercedes-Benz",
+    "Capacity": 43,
+    "Mileage": 313773.91
+  },
+  {
+    "Id": "e0265305-5102-4b29-9e4a-dec9830d604d",
+    "Model": "Scania",
+    "Capacity": 62,
+    "Mileage": 265507.16
+  },
+  {
+    "Id": "2950b79a-d6dc-4dcc-b3b1-e8feb7dec884",
+    "Model": "Scania",
+    "Capacity": 20,
+    "Mileage": 316909.54
+  },
+  {
+    "Id": "9656521f-cedc-48fa-9d52-45faf090a024",
+    "Model": "Scania",
+    "Capacity": 61,
+    "Mileage": 45191.04
+  },
+  {
+    "Id": "63722cb5-d3d6-42d5-b37a-abe8a94f4e65",
+    "Model": "Scania",
+    "Capacity": 30,
+    "Mileage": 268523.28
+  },
+  {
+    "Id": "6a025e45-cfc6-4bb5-8173-1e0401a1bb1c",
+    "Model": "MAN",
+    "Capacity": 55,
+    "Mileage": 49246.58
+  },
+  {
+    "Id": "4fc29198-b6cc-4d0e-afc0-ab3d4cef0594",
+    "Model": "Volvo",
+    "Capacity": 58,
+    "Mileage": 397907.02
+  },
+  {
+    "Id": "cb531917-1a9d-4856-a8d5-a125e24606e6",
+    "Model": "Scania",
+    "Capacity": 63,
+    "Mileage": 89722.39
+  },
+  {
+    "Id": "93a7b64d-e3fb-4c57-b631-ae0cd21f3a9d",
+    "Model": "Ikarus",
+    "Capacity": 24,
+    "Mileage": 247578.44
+  },
+  {
+    "Id": "8eac52e8-c3df-488a-ade4-cb016b73de32",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 32,
+    "Mileage": 377820.64
+  },
+  {
+    "Id": "9872cb3d-8979-4618-b0da-28e54f3fb0cd",
+    "Model": "MAN",
+    "Capacity": 28,
+    "Mileage": 170434.16
+  },
+  {
+    "Id": "b3256d04-0771-4ca0-be37-71b6b4e5fe36",
+    "Model": "Ikarus",
+    "Capacity": 25,
+    "Mileage": 10719.95
+  },
+  {
+    "Id": "eae9c1de-84ef-415f-9aad-7da85d90a26f",
+    "Model": "Mercedes-Benz",
+    "Capacity": 41,
+    "Mileage": 175687.71
+  },
+  {
+    "Id": "1dff679c-3b12-4dac-b832-9c674222a5a1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 38,
+    "Mileage": 298895.39
+  },
+  {
+    "Id": "b366724e-a253-4e53-ac1c-9caa73918ade",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 57,
+    "Mileage": 399786.59
+  },
+  {
+    "Id": "81c257c3-6713-41b9-9838-e87f0c520c40",
+    "Model": "MAN",
+    "Capacity": 56,
+    "Mileage": 146047.50
+  },
+  {
+    "Id": "761ab873-59d0-422f-9c8c-55605aa57b91",
+    "Model": "Volvo",
+    "Capacity": 30,
+    "Mileage": 254801.72
+  },
+  {
+    "Id": "9b5bba73-b3e0-419f-838b-f1b48bf85f1a",
+    "Model": "Scania",
+    "Capacity": 54,
+    "Mileage": 337333.14
+  },
+  {
+    "Id": "9929ddd6-0779-4199-82f1-44df50a5fb01",
+    "Model": "Ikarus",
+    "Capacity": 37,
+    "Mileage": 148731.97
+  },
+  {
+    "Id": "a81088ce-fe93-4914-80a0-bc48f918d0af",
+    "Model": "Scania",
+    "Capacity": 46,
+    "Mileage": 12259.98
+  },
+  {
+    "Id": "b1d711bf-be42-4f4c-8a2d-918d1a32480b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 31,
+    "Mileage": 192842.60
+  },
+  {
+    "Id": "5200dccb-06c7-48df-a97b-85572742bae0",
+    "Model": "MAN",
+    "Capacity": 64,
+    "Mileage": 144334.74
+  },
+  {
+    "Id": "6de8e36f-5432-4c97-a128-52426ea2640a",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 53,
+    "Mileage": 49487.40
+  },
+  {
+    "Id": "2ac342ab-ad51-421c-b612-e301f6e9a94a",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 52,
+    "Mileage": 81723.77
+  },
+  {
+    "Id": "c4c2000d-8bb0-444a-9146-d9e1da6593cb",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 28,
+    "Mileage": 284505.19
+  },
+  {
+    "Id": "1cd71863-3cb8-434e-a94a-bd3513d59d99",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 95739.43
+  },
+  {
+    "Id": "240d409d-55e0-4ba1-9e7a-9195c9c051fd",
+    "Model": "Volvo",
+    "Capacity": 30,
+    "Mileage": 8152.30
+  },
+  {
+    "Id": "24c3c8a9-c719-468f-bcee-efc86e9757b7",
+    "Model": "Volvo",
+    "Capacity": 58,
+    "Mileage": 241416.99
+  },
+  {
+    "Id": "4d9272e3-c232-449b-bd51-750dc71a9871",
+    "Model": "MAN",
+    "Capacity": 52,
+    "Mileage": 18779.75
+  },
+  {
+    "Id": "19e8511d-a25f-4a93-a753-2505eb4bc7c6",
+    "Model": "Volvo",
+    "Capacity": 20,
+    "Mileage": 103660.94
+  },
+  {
+    "Id": "473f2800-8a0e-4aed-a4d9-cfe53c38a3fb",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 49,
+    "Mileage": 336348.42
+  },
+  {
+    "Id": "1f16aa5c-7793-4978-96c2-9b0f36fb803c",
+    "Model": "Volvo",
+    "Capacity": 22,
+    "Mileage": 169508.11
+  },
+  {
+    "Id": "38ee7fa8-b167-48cd-954e-77066e490085",
+    "Model": "Volvo",
+    "Capacity": 19,
+    "Mileage": 281425.14
+  },
+  {
+    "Id": "7e1f9eee-5873-4bc7-806b-2672efd75faf",
+    "Model": "MAN",
+    "Capacity": 25,
+    "Mileage": 293024.27
+  },
+  {
+    "Id": "bd8c9738-4e31-4001-925f-7afbec12a923",
+    "Model": "Mercedes-Benz",
+    "Capacity": 57,
+    "Mileage": 225509.32
+  },
+  {
+    "Id": "79a679d4-d11a-4647-bb8f-27c1db9d0251",
+    "Model": "MAN",
+    "Capacity": 58,
+    "Mileage": 18237.94
+  },
+  {
+    "Id": "6c782579-2f1a-4a05-8f73-ff326fab0e07",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 37,
+    "Mileage": 201821.48
+  },
+  {
+    "Id": "c617f412-8ce2-4007-b547-15f6c5bba4be",
+    "Model": "Ikarus",
+    "Capacity": 35,
+    "Mileage": 242035.48
+  },
+  {
+    "Id": "f5871571-4172-4943-9087-e48fe7cc56d2",
+    "Model": "Scania",
+    "Capacity": 52,
+    "Mileage": 224787.23
+  },
+  {
+    "Id": "90136db5-d04d-4715-9dfd-0382aa462586",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 331379.19
+  },
+  {
+    "Id": "36291333-8866-4e32-9903-c14bcc685d8b",
+    "Model": "Scania",
+    "Capacity": 34,
+    "Mileage": 322305.14
+  },
+  {
+    "Id": "13b6b5bf-5530-46dc-931f-3ad251fb57e2",
+    "Model": "Scania",
+    "Capacity": 52,
+    "Mileage": 135166.67
+  },
+  {
+    "Id": "1a16f550-d298-4eb7-8bbb-a4f1eb627e90",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 117375.42
+  },
+  {
+    "Id": "ce0d8bb9-45b4-47a1-af9d-209025c58000",
+    "Model": "Volvo",
+    "Capacity": 42,
+    "Mileage": 263433.87
+  },
+  {
+    "Id": "96b30b95-974c-4f6d-856c-9068bab745d2",
+    "Model": "MAN",
+    "Capacity": 54,
+    "Mileage": 151389.75
+  },
+  {
+    "Id": "41d0ad4b-18be-4681-8557-f6ab0c4a2c59",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 56,
+    "Mileage": 218244.60
+  },
+  {
+    "Id": "4e988c01-63c7-444b-8070-3c111abac605",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 60,
+    "Mileage": 274522.72
+  },
+  {
+    "Id": "1eba939e-94f6-478d-af06-2e01211bbfa1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 40,
+    "Mileage": 203636.84
+  },
+  {
+    "Id": "9c619159-0d20-4836-ae10-d61dc6dadd66",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 41,
+    "Mileage": 209515.18
+  },
+  {
+    "Id": "1f7f751a-4448-465f-9650-70f645ece0f2",
+    "Model": "Volvo",
+    "Capacity": 39,
+    "Mileage": 153065.82
+  },
+  {
+    "Id": "f5022427-0390-4a26-a11d-f94182ac1fd3",
+    "Model": "Volvo",
+    "Capacity": 37,
+    "Mileage": 50473.60
+  },
+  {
+    "Id": "f067ebe0-fb43-42cb-9079-fe863dd07b16",
+    "Model": "Ikarus",
+    "Capacity": 27,
+    "Mileage": 154296.20
+  },
+  {
+    "Id": "363bb3e0-a3aa-482f-87ae-00be531053dd",
+    "Model": "Scania",
+    "Capacity": 64,
+    "Mileage": 326087.51
+  },
+  {
+    "Id": "78735906-8269-4e4f-bb55-532feaf4b855",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 45,
+    "Mileage": 182190.55
+  },
+  {
+    "Id": "b1982b40-1cc3-453d-9599-93d6c01fa47c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 36,
+    "Mileage": 318974.07
+  },
+  {
+    "Id": "ae84956b-fd26-4e5d-ab04-8759008e219d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 20,
+    "Mileage": 52980.00
+  },
+  {
+    "Id": "394ab061-f758-4a51-ab00-c6311cc0bd34",
+    "Model": "MAN",
+    "Capacity": 34,
+    "Mileage": 7895.09
+  },
+  {
+    "Id": "ae5564a7-9866-4490-a2ed-566870024b50",
+    "Model": "Mercedes-Benz",
+    "Capacity": 24,
+    "Mileage": 310348.76
+  },
+  {
+    "Id": "bfe33895-7336-4bad-9c2d-590550af0537",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 63,
+    "Mileage": 101494.32
+  },
+  {
+    "Id": "9e33055a-0aa6-464c-86ee-a32bf82248ff",
+    "Model": "Volvo",
+    "Capacity": 63,
+    "Mileage": 124267.67
+  },
+  {
+    "Id": "18b327b9-258b-44c8-96d9-85730a48d25e",
+    "Model": "Mercedes-Benz",
+    "Capacity": 35,
+    "Mileage": 141935.37
+  },
+  {
+    "Id": "821ee378-2fb4-4126-9ace-b100ec8f4d7e",
+    "Model": "MAN",
+    "Capacity": 33,
+    "Mileage": 223216.53
+  },
+  {
+    "Id": "b9dcc44b-eba5-4a10-b649-1230d3d3fe0e",
+    "Model": "Volvo",
+    "Capacity": 58,
+    "Mileage": 112023.63
+  },
+  {
+    "Id": "35930850-fb7d-4991-93f7-9c80b6eb9a4c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 25,
+    "Mileage": 285076.81
+  },
+  {
+    "Id": "49b75aca-c4cd-4f72-9cdc-434483db52cb",
+    "Model": "MAN",
+    "Capacity": 51,
+    "Mileage": 60815.84
+  },
+  {
+    "Id": "acb19232-b6d2-431d-826a-6f2d49044dc2",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 218064.56
+  },
+  {
+    "Id": "5c84d76f-0bdd-4a57-bf7a-b31e6ddcf2f7",
+    "Model": "MAN",
+    "Capacity": 32,
+    "Mileage": 218939.52
+  },
+  {
+    "Id": "19949bdf-07e2-46a6-9759-64859e96b49c",
+    "Model": "Scania",
+    "Capacity": 36,
+    "Mileage": 329861.11
+  },
+  {
+    "Id": "cb3351d6-4a90-4316-b44b-92fea3bc3f8b",
+    "Model": "Ikarus",
+    "Capacity": 39,
+    "Mileage": 150830.62
+  },
+  {
+    "Id": "a1fbb0e4-4001-4795-aa0b-5b8a677ae004",
+    "Model": "Ikarus",
+    "Capacity": 51,
+    "Mileage": 145681.72
+  },
+  {
+    "Id": "81732140-e8e7-4fce-9a83-69d2b1d26564",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 25,
+    "Mileage": 369859.99
+  },
+  {
+    "Id": "15dc030d-edda-4933-b22e-8e004658afc0",
+    "Model": "Ikarus",
+    "Capacity": 37,
+    "Mileage": 161926.08
+  },
+  {
+    "Id": "675019ca-5043-49e4-8b58-4a80c07eb434",
+    "Model": "Volvo",
+    "Capacity": 42,
+    "Mileage": 104629.99
+  },
+  {
+    "Id": "2913545f-247a-4a29-a964-eceece93c999",
+    "Model": "Ikarus",
+    "Capacity": 28,
+    "Mileage": 309493.92
+  },
+  {
+    "Id": "1138851c-2739-4057-9f74-4122be04023a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 50,
+    "Mileage": 121451.10
+  },
+  {
+    "Id": "7e9215f0-d572-4220-a0e9-e90cacb67405",
+    "Model": "MAN",
+    "Capacity": 49,
+    "Mileage": 34945.69
+  },
+  {
+    "Id": "d35a8f5a-98af-480d-bb1b-bb7860d3b6af",
+    "Model": "Mercedes-Benz",
+    "Capacity": 25,
+    "Mileage": 133850.23
+  },
+  {
+    "Id": "e8eaa6c0-0a4a-4587-b650-957b9be52fa6",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 37,
+    "Mileage": 22027.30
+  },
+  {
+    "Id": "8f359594-ee85-477e-87a5-8f6889148849",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 48,
+    "Mileage": 213897.48
+  },
+  {
+    "Id": "f99a2869-e933-4dc1-80e1-e6e7a8461d19",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 149871.42
+  },
+  {
+    "Id": "e5347ec6-47fc-4dd3-ae19-4af0fd8e45c3",
+    "Model": "Scania",
+    "Capacity": 58,
+    "Mileage": 366029.87
+  },
+  {
+    "Id": "b269e74a-5827-4bd4-be61-923b2b4f530c",
+    "Model": "Scania",
+    "Capacity": 64,
+    "Mileage": 96442.03
+  },
+  {
+    "Id": "20ce5d99-2702-43ee-8a42-98f198465dbc",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 60,
+    "Mileage": 47662.89
+  },
+  {
+    "Id": "c70c934d-6bf0-4376-8cbd-b5f9cc2f6383",
+    "Model": "Ikarus",
+    "Capacity": 53,
+    "Mileage": 177444.52
+  },
+  {
+    "Id": "f993efb9-e8d7-48dd-842e-fbb061e4379b",
+    "Model": "Volvo",
+    "Capacity": 54,
+    "Mileage": 357327.75
+  },
+  {
+    "Id": "e17d5454-07ae-466b-a36f-443d37527fcf",
+    "Model": "Volvo",
+    "Capacity": 26,
+    "Mileage": 137889.57
+  },
+  {
+    "Id": "ff8ae1fa-13c7-41df-a937-58608981e992",
+    "Model": "Ikarus",
+    "Capacity": 61,
+    "Mileage": 295980.43
+  },
+  {
+    "Id": "20a96cb9-4b4a-4325-ab6d-49223ba473ff",
+    "Model": "MAN",
+    "Capacity": 24,
+    "Mileage": 297771.11
+  },
+  {
+    "Id": "cc518bbd-178a-4d4f-b713-85315550fe9c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 41,
+    "Mileage": 140163.42
+  },
+  {
+    "Id": "cd168a6f-c8b5-4646-a245-a513d8452cb1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 61,
+    "Mileage": 62371.77
+  },
+  {
+    "Id": "5deaf4a8-8cf1-4f53-b76e-1c51f2b75c8e",
+    "Model": "Volvo",
+    "Capacity": 21,
+    "Mileage": 276030.31
+  },
+  {
+    "Id": "87154f10-5f47-4d3b-9646-1cf4d40317df",
+    "Model": "Ikarus",
+    "Capacity": 59,
+    "Mileage": 307443.01
+  },
+  {
+    "Id": "3a110f36-380e-4375-a8d1-e1ebc03bf58c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 21,
+    "Mileage": 278037.79
+  },
+  {
+    "Id": "c5a8b777-16c3-4cb8-afbd-c330f17180cc",
+    "Model": "Scania",
+    "Capacity": 58,
+    "Mileage": 359571.38
+  },
+  {
+    "Id": "06fa5707-ad25-426f-aa79-452a6ef7951e",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 184602.77
+  },
+  {
+    "Id": "81c77327-ba95-4487-9b1b-38916ad9d3f2",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 22,
+    "Mileage": 315305.73
+  },
+  {
+    "Id": "105bd705-b36c-402b-a387-6c8e12aafc4b",
+    "Model": "Scania",
+    "Capacity": 34,
+    "Mileage": 192051.97
+  },
+  {
+    "Id": "501abb60-fc21-4fc0-b1d0-22d621a898fe",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 24,
+    "Mileage": 250097.46
+  },
+  {
+    "Id": "f448f9eb-b547-4c5e-9129-559edda7d3be",
+    "Model": "Volvo",
+    "Capacity": 33,
+    "Mileage": 99489.08
+  },
+  {
+    "Id": "cc234492-c53e-4981-afde-62249ac08101",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 25,
+    "Mileage": 389971.09
+  },
+  {
+    "Id": "8d15ab35-9995-445d-81c0-2e5f8d49681c",
+    "Model": "Scania",
+    "Capacity": 36,
+    "Mileage": 260770.97
+  },
+  {
+    "Id": "a77f356f-96ad-4b0e-9535-c3c190704e7a",
+    "Model": "Mercedes-Benz",
+    "Capacity": 43,
+    "Mileage": 317231.03
+  },
+  {
+    "Id": "26cdf192-9ecd-41ea-aca2-abb130cca18f",
+    "Model": "MAN",
+    "Capacity": 27,
+    "Mileage": 8037.01
+  },
+  {
+    "Id": "739c5f8c-7bc0-499f-bb24-a358ba7c636f",
+    "Model": "Scania",
+    "Capacity": 39,
+    "Mileage": 131652.33
+  },
+  {
+    "Id": "ddc05240-f125-44c3-8606-938ac6189517",
+    "Model": "MAN",
+    "Capacity": 38,
+    "Mileage": 230904.51
+  },
+  {
+    "Id": "580a9d6c-da38-4549-b8bc-749ef095f22e",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 26,
+    "Mileage": 32269.70
+  },
+  {
+    "Id": "dedfe2ee-3705-4c51-9eb7-c982af8fd4e6",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 28,
+    "Mileage": 83529.73
+  },
+  {
+    "Id": "d8feebd6-2143-4de1-b870-0fcc9af7c0d9",
+    "Model": "MAN",
+    "Capacity": 34,
+    "Mileage": 388937.75
+  },
+  {
+    "Id": "071c98cb-49e6-4768-bebc-a0c757c2e88d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 23,
+    "Mileage": 276564.05
+  },
+  {
+    "Id": "2d858539-1965-488b-ba13-f1c53a268bb3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 22,
+    "Mileage": 299364.06
+  },
+  {
+    "Id": "b5f90f7a-b507-4a0c-97c4-a616b17d8e98",
+    "Model": "Scania",
+    "Capacity": 47,
+    "Mileage": 53128.15
+  },
+  {
+    "Id": "d34c8d0d-ab76-4fcf-9a84-0fc27e5f1c62",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 21,
+    "Mileage": 275219.41
+  },
+  {
+    "Id": "aa45b53d-667f-4375-88f2-fc3c33daa390",
+    "Model": "Volvo",
+    "Capacity": 18,
+    "Mileage": 30913.21
+  },
+  {
+    "Id": "6fe12781-bcb4-4e47-869f-21bf9171c35a",
+    "Model": "Scania",
+    "Capacity": 64,
+    "Mileage": 73759.83
+  },
+  {
+    "Id": "1d55b59a-8ae9-4333-a453-a361032e4667",
+    "Model": "MAN",
+    "Capacity": 24,
+    "Mileage": 5284.48
+  },
+  {
+    "Id": "f911f893-d5f1-4db5-9334-af19cc2e96b8",
+    "Model": "Ikarus",
+    "Capacity": 40,
+    "Mileage": 350016.56
+  },
+  {
+    "Id": "f0572176-4b92-466d-856d-dd0c1b8bf5a4",
+    "Model": "Ikarus",
+    "Capacity": 53,
+    "Mileage": 23666.39
+  },
+  {
+    "Id": "c2449fd8-65f9-438e-926d-b3cc8829a88c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 23,
+    "Mileage": 271369.12
+  },
+  {
+    "Id": "9964a742-735d-42b5-9c51-23e4697ffbc1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 24,
+    "Mileage": 223506.14
+  },
+  {
+    "Id": "c31ecc2c-34c1-44b7-9904-cc860f35ce39",
+    "Model": "Ikarus",
+    "Capacity": 35,
+    "Mileage": 246299.51
+  },
+  {
+    "Id": "8fe596e8-8a14-4c0b-8370-03f407f6c696",
+    "Model": "Mercedes-Benz",
+    "Capacity": 29,
+    "Mileage": 361395.76
+  },
+  {
+    "Id": "7739394a-d384-4711-b67e-8a015c64ec7e",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 81484.90
+  },
+  {
+    "Id": "7bcbd857-5c85-4b20-81e4-29d2c3f14687",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 26,
+    "Mileage": 88962.66
+  },
+  {
+    "Id": "7bcfbfe8-6c56-47b9-96e7-aafb9b910694",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 261472.94
+  },
+  {
+    "Id": "ac16ebb2-d295-4330-94fb-ea0d4ae55bad",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 93611.64
+  },
+  {
+    "Id": "8ab5c515-c7e7-4484-9058-2fd8d1b994c7",
+    "Model": "Scania",
+    "Capacity": 51,
+    "Mileage": 27060.96
+  },
+  {
+    "Id": "1ce030d8-552c-4fba-af92-a33a976cbc6c",
+    "Model": "Ikarus",
+    "Capacity": 32,
+    "Mileage": 28113.02
+  },
+  {
+    "Id": "f380e118-1b60-4bf4-8eef-1dbbdb37d995",
+    "Model": "Scania",
+    "Capacity": 56,
+    "Mileage": 209356.27
+  },
+  {
+    "Id": "a022c779-8bd7-4dba-86b2-3b44e3902ad9",
+    "Model": "Scania",
+    "Capacity": 28,
+    "Mileage": 8045.53
+  },
+  {
+    "Id": "4bda6161-9be5-452f-b294-edcc679416bc",
+    "Model": "Scania",
+    "Capacity": 29,
+    "Mileage": 254418.73
+  },
+  {
+    "Id": "69987c74-25b5-448a-8e4d-c30cbd020282",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 29,
+    "Mileage": 169845.46
+  },
+  {
+    "Id": "f320b2ac-01ff-494c-be63-5c06bf70457e",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 27,
+    "Mileage": 243606.26
+  },
+  {
+    "Id": "17ff07c3-692c-4e2b-b2dd-11a83567d398",
+    "Model": "MAN",
+    "Capacity": 33,
+    "Mileage": 295805.52
+  },
+  {
+    "Id": "289d838a-26db-4fa4-9320-ee26196ffce3",
+    "Model": "Scania",
+    "Capacity": 47,
+    "Mileage": 399668.17
+  },
+  {
+    "Id": "21bca9a7-f3bb-4c89-9650-86d937361b59",
+    "Model": "Ikarus",
+    "Capacity": 47,
+    "Mileage": 374230.29
+  },
+  {
+    "Id": "e9e58db6-395a-43b1-891d-ab432c95e592",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 37,
+    "Mileage": 109232.45
+  },
+  {
+    "Id": "00d83bfc-2f27-424d-91c9-dcac8f89ac52",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 39,
+    "Mileage": 343645.49
+  },
+  {
+    "Id": "a35adab2-d7e7-4e63-970b-000d8265c705",
+    "Model": "Mercedes-Benz",
+    "Capacity": 19,
+    "Mileage": 317535.25
+  },
+  {
+    "Id": "d1df90b3-9e29-4f0f-8cf1-7318438573cd",
+    "Model": "Ikarus",
+    "Capacity": 56,
+    "Mileage": 341377.66
+  },
+  {
+    "Id": "6e153265-2330-4379-9e31-40520122c3ae",
+    "Model": "Ikarus",
+    "Capacity": 51,
+    "Mileage": 36707.08
+  },
+  {
+    "Id": "f0fdf8b5-441f-40f6-b2fc-274326c22094",
+    "Model": "Ikarus",
+    "Capacity": 42,
+    "Mileage": 174225.71
+  },
+  {
+    "Id": "a878e501-a2b2-4f1b-98fe-3b21232ca0a2",
+    "Model": "Ikarus",
+    "Capacity": 56,
+    "Mileage": 378914.37
+  },
+  {
+    "Id": "89f81c9a-cfb2-4722-908f-96e24993aa8e",
+    "Model": "Volvo",
+    "Capacity": 26,
+    "Mileage": 126102.61
+  },
+  {
+    "Id": "ebdfad0e-021b-4ca9-9b6e-0229ef946c52",
+    "Model": "Volvo",
+    "Capacity": 27,
+    "Mileage": 130001.32
+  },
+  {
+    "Id": "8cbeef96-e1e1-40ff-9699-b96d9764760c",
+    "Model": "Ikarus",
+    "Capacity": 59,
+    "Mileage": 364914.47
+  },
+  {
+    "Id": "f49e7314-b3e9-4708-8859-1460b4a7d66c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 56,
+    "Mileage": 84654.75
+  },
+  {
+    "Id": "a42a1b0a-cfb0-4037-9efe-7abb9b007585",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 46,
+    "Mileage": 108539.60
+  },
+  {
+    "Id": "790c6325-09fd-4b62-94a9-d216928c3e13",
+    "Model": "Mercedes-Benz",
+    "Capacity": 64,
+    "Mileage": 251497.82
+  },
+  {
+    "Id": "9804982c-7c54-45fc-9e56-b29ea120fc89",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 58,
+    "Mileage": 287351.98
+  },
+  {
+    "Id": "800b0159-f1e2-4427-8e32-d1eb88d48a88",
+    "Model": "MAN",
+    "Capacity": 22,
+    "Mileage": 217196.07
+  },
+  {
+    "Id": "1d63692a-4c99-40db-8c8d-849a0b98bab1",
+    "Model": "Ikarus",
+    "Capacity": 19,
+    "Mileage": 239189.36
+  },
+  {
+    "Id": "1c9a2dc4-37ae-46e9-9d0a-6b6591def895",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 64,
+    "Mileage": 268951.24
+  },
+  {
+    "Id": "aa6ccf3a-912b-49a8-b07c-e5758ec7c7f4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 31,
+    "Mileage": 77022.47
+  },
+  {
+    "Id": "3ee2915f-9c81-47aa-9556-8ee59c9730f7",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 39,
+    "Mileage": 40604.88
+  },
+  {
+    "Id": "5c100d56-5cea-4f9f-a641-2768eb0b3aaa",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 51,
+    "Mileage": 84812.54
+  },
+  {
+    "Id": "a55a5855-29d0-4626-9ad5-5de50ca4906e",
+    "Model": "Volvo",
+    "Capacity": 34,
+    "Mileage": 224857.05
+  },
+  {
+    "Id": "2e66f308-dac2-4ad0-afad-730c8f46c5a8",
+    "Model": "Volvo",
+    "Capacity": 53,
+    "Mileage": 347794.57
+  },
+  {
+    "Id": "df8da3f5-db36-4c78-9a9f-89e0502134bd",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 33,
+    "Mileage": 184830.00
+  },
+  {
+    "Id": "c026bb31-abde-44a7-b15b-1f934817eaa3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 29,
+    "Mileage": 18728.55
+  },
+  {
+    "Id": "057c7ce6-b6f9-406c-8ff9-274dee829669",
+    "Model": "Ikarus",
+    "Capacity": 29,
+    "Mileage": 320428.11
+  },
+  {
+    "Id": "ded5201f-d83c-46f3-b3b9-f68c6f852371",
+    "Model": "Volvo",
+    "Capacity": 36,
+    "Mileage": 338731.09
+  },
+  {
+    "Id": "c79bed83-66ae-4e7c-9709-62c952f16c54",
+    "Model": "MAN",
+    "Capacity": 24,
+    "Mileage": 220198.09
+  },
+  {
+    "Id": "2beaa2bb-2241-4c3b-93c4-5a42ec2cfab5",
+    "Model": "MAN",
+    "Capacity": 38,
+    "Mileage": 7326.00
+  },
+  {
+    "Id": "cdb4d430-a9c1-4a7b-8cc8-d41c7abac7c2",
+    "Model": "Ikarus",
+    "Capacity": 26,
+    "Mileage": 125118.24
+  },
+  {
+    "Id": "0fd2d629-857f-40a2-a581-e1377bfade7a",
+    "Model": "Volvo",
+    "Capacity": 22,
+    "Mileage": 84257.06
+  },
+  {
+    "Id": "cccd1a5d-49ee-4b5f-991e-174580b022af",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 395125.06
+  },
+  {
+    "Id": "c1c7d956-2d95-42dc-8408-6b9f81c0303e",
+    "Model": "Mercedes-Benz",
+    "Capacity": 41,
+    "Mileage": 138781.41
+  },
+  {
+    "Id": "1892bc6a-78ca-4140-92fb-7c65c7119c02",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 34,
+    "Mileage": 117712.25
+  },
+  {
+    "Id": "f01f0dd7-796a-4b2a-8dd4-c6f493204ff1",
+    "Model": "MAN",
+    "Capacity": 59,
+    "Mileage": 355150.40
+  },
+  {
+    "Id": "961c5d68-e19c-41ff-b87d-5311f90f9232",
+    "Model": "Mercedes-Benz",
+    "Capacity": 62,
+    "Mileage": 55790.45
+  },
+  {
+    "Id": "26e053e6-4802-45b1-b642-e793320c4fb1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 30,
+    "Mileage": 31266.09
+  },
+  {
+    "Id": "4b1765df-6b77-43dd-8e94-fba6a11cb682",
+    "Model": "MAN",
+    "Capacity": 59,
+    "Mileage": 147390.51
+  },
+  {
+    "Id": "e4f805f6-0085-451a-bdf3-7be0fb2d893d",
+    "Model": "MAN",
+    "Capacity": 22,
+    "Mileage": 214215.93
+  },
+  {
+    "Id": "570e186e-168a-4b35-84c8-309d46e96d57",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 40,
+    "Mileage": 348222.81
+  },
+  {
+    "Id": "28ee1e42-2207-41a4-9615-bdb2c9fa1015",
+    "Model": "Scania",
+    "Capacity": 35,
+    "Mileage": 193212.57
+  },
+  {
+    "Id": "20d762fa-58df-4840-ae78-928a1df340a4",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 30,
+    "Mileage": 29167.73
+  },
+  {
+    "Id": "b0718e20-958a-4688-9568-e6385d06b6e3",
+    "Model": "Ikarus",
+    "Capacity": 33,
+    "Mileage": 124357.61
+  },
+  {
+    "Id": "3bcee413-bb53-4448-bbe5-d566d2ea1a29",
+    "Model": "Ikarus",
+    "Capacity": 63,
+    "Mileage": 247238.06
+  },
+  {
+    "Id": "352eadc8-c5b7-427d-b594-ac7ee0845789",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 399741.82
+  },
+  {
+    "Id": "3df7d804-2343-43c6-a26a-91c44481ece3",
+    "Model": "Volvo",
+    "Capacity": 26,
+    "Mileage": 80054.27
+  },
+  {
+    "Id": "f841184e-e5d6-4c39-9c73-0633afa049b8",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 205540.32
+  },
+  {
+    "Id": "d1c6dcdb-a5c6-4909-a46a-da698855284f",
+    "Model": "Volvo",
+    "Capacity": 42,
+    "Mileage": 363091.40
+  },
+  {
+    "Id": "2f2f585d-cdd2-4084-a102-8dc6b1a2e771",
+    "Model": "Ikarus",
+    "Capacity": 36,
+    "Mileage": 229106.63
+  },
+  {
+    "Id": "4c6f1587-fec2-4650-b404-07ba5c447f4f",
+    "Model": "Volvo",
+    "Capacity": 29,
+    "Mileage": 53440.25
+  },
+  {
+    "Id": "7d9e0f85-fccb-49ae-903a-a3d1937faa00",
+    "Model": "Volvo",
+    "Capacity": 37,
+    "Mileage": 93571.76
+  },
+  {
+    "Id": "8919e6ce-9da4-494e-81b3-5b4c23d9d02d",
+    "Model": "MAN",
+    "Capacity": 31,
+    "Mileage": 74346.05
+  },
+  {
+    "Id": "4a746d2b-91c0-4201-8edb-1ad292cb4521",
+    "Model": "Volvo",
+    "Capacity": 35,
+    "Mileage": 277012.19
+  },
+  {
+    "Id": "20b14934-ed28-4c69-9656-d012078f8c6e",
+    "Model": "Scania",
+    "Capacity": 56,
+    "Mileage": 324372.17
+  },
+  {
+    "Id": "15162d85-85e5-401a-888d-bb8c85d768b3",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 42,
+    "Mileage": 166302.25
+  },
+  {
+    "Id": "bd98f7f0-47cc-451a-b794-b481ce92e3cd",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 59,
+    "Mileage": 68308.10
+  },
+  {
+    "Id": "50957f7a-37fe-48e9-8d19-aa33dfb2fec9",
+    "Model": "Volvo",
+    "Capacity": 54,
+    "Mileage": 309351.04
+  },
+  {
+    "Id": "dd96b645-552e-44e5-8532-e041c6faaf9c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 34,
+    "Mileage": 60224.53
+  },
+  {
+    "Id": "70b5ee4d-8f37-4755-a833-226ed60520e1",
+    "Model": "Volvo",
+    "Capacity": 49,
+    "Mileage": 70810.42
+  },
+  {
+    "Id": "8fb06a82-1bd2-4c1c-8846-b87d7ddc07de",
+    "Model": "Scania",
+    "Capacity": 64,
+    "Mileage": 47955.21
+  },
+  {
+    "Id": "192a9d56-e2e8-4b1a-95c8-794b09640ce9",
+    "Model": "MAN",
+    "Capacity": 57,
+    "Mileage": 112163.34
+  },
+  {
+    "Id": "bca2fa0e-1646-4c68-ad1e-7c3b53515514",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 305735.90
+  },
+  {
+    "Id": "fe1f6445-d3c0-4b00-9e21-16b0dd476a31",
+    "Model": "Scania",
+    "Capacity": 30,
+    "Mileage": 379962.33
+  },
+  {
+    "Id": "96676c41-dbfd-4c6c-ae60-bc8b5c033b41",
+    "Model": "MAN",
+    "Capacity": 61,
+    "Mileage": 380650.30
+  },
+  {
+    "Id": "9231ef5d-fec6-4bf8-a4ab-4c91a9caa920",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 42,
+    "Mileage": 137278.66
+  },
+  {
+    "Id": "5e7aff9d-7e58-4bb5-8986-8ba870566d66",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 26,
+    "Mileage": 241975.30
+  },
+  {
+    "Id": "7bec7618-ffda-4c66-b730-cc2214c77422",
+    "Model": "Mercedes-Benz",
+    "Capacity": 26,
+    "Mileage": 296889.60
+  },
+  {
+    "Id": "27812660-cfad-4c0d-93b1-8f3b63a631a6",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 355374.01
+  },
+  {
+    "Id": "88a95b4f-a52a-4425-9e73-937507a21c7b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 23,
+    "Mileage": 122957.28
+  },
+  {
+    "Id": "583713a9-cfe0-43f9-9c9d-7bf2cb711a20",
+    "Model": "Ikarus",
+    "Capacity": 32,
+    "Mileage": 359030.62
+  },
+  {
+    "Id": "3b623688-965a-4e91-ba07-7dec6e054478",
+    "Model": "Ikarus",
+    "Capacity": 53,
+    "Mileage": 99328.66
+  },
+  {
+    "Id": "d4ba1bf5-a749-4b27-bdb1-d39b999b8582",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 27,
+    "Mileage": 62021.60
+  },
+  {
+    "Id": "88351c79-ed69-4c0d-bc72-ad20b86bcd5d",
+    "Model": "Volvo",
+    "Capacity": 27,
+    "Mileage": 276454.49
+  },
+  {
+    "Id": "d84ace32-45ac-43dd-b80b-a4b9ce2328b9",
+    "Model": "Volvo",
+    "Capacity": 32,
+    "Mileage": 24620.73
+  },
+  {
+    "Id": "835d117c-d68e-48c7-b63a-50d7963ffd0a",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 333554.05
+  },
+  {
+    "Id": "8d51b3cf-2f1b-479e-9cf9-4f6850993def",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 21,
+    "Mileage": 28799.35
+  },
+  {
+    "Id": "15ed54b2-68ea-4c68-8a27-577f7738c472",
+    "Model": "Scania",
+    "Capacity": 29,
+    "Mileage": 226496.94
+  },
+  {
+    "Id": "13402846-3993-47fa-a12c-ba793579e98a",
+    "Model": "Volvo",
+    "Capacity": 61,
+    "Mileage": 323656.65
+  },
+  {
+    "Id": "1adeef66-5d76-490e-b2d9-3587fc9611d9",
+    "Model": "MAN",
+    "Capacity": 44,
+    "Mileage": 87900.04
+  },
+  {
+    "Id": "bbc518b0-b646-48f6-9ff6-679e37ab2b8d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 19,
+    "Mileage": 255665.54
+  },
+  {
+    "Id": "3f7aa8c9-0278-4ef7-8288-1591e11399f3",
+    "Model": "Ikarus",
+    "Capacity": 44,
+    "Mileage": 253172.11
+  },
+  {
+    "Id": "b7db9693-f646-495e-b70b-b85fdc976c80",
+    "Model": "Scania",
+    "Capacity": 52,
+    "Mileage": 314679.25
+  },
+  {
+    "Id": "0b5375b1-685b-4dc6-83f4-f07935ee522f",
+    "Model": "Volvo",
+    "Capacity": 39,
+    "Mileage": 203818.99
+  },
+  {
+    "Id": "e52d5ae7-c7ef-4561-9f5a-36d9fd064a50",
+    "Model": "Mercedes-Benz",
+    "Capacity": 37,
+    "Mileage": 83886.69
+  },
+  {
+    "Id": "03c22a82-c7cb-4b8c-bf80-c3a8451b38b6",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 105347.92
+  },
+  {
+    "Id": "49307b75-6422-41c7-9ce6-50d77882c3f2",
+    "Model": "Ikarus",
+    "Capacity": 36,
+    "Mileage": 361257.40
+  },
+  {
+    "Id": "3060b396-07db-4804-9a81-b89d97f5ca99",
+    "Model": "Volvo",
+    "Capacity": 47,
+    "Mileage": 126255.43
+  },
+  {
+    "Id": "a6650451-cee9-49d2-aa10-b45cec0d9e1f",
+    "Model": "Mercedes-Benz",
+    "Capacity": 46,
+    "Mileage": 30157.49
+  },
+  {
+    "Id": "0adb830c-e84d-4cbe-b7ba-b301cab5f95e",
+    "Model": "Mercedes-Benz",
+    "Capacity": 42,
+    "Mileage": 206739.75
+  },
+  {
+    "Id": "0b7e3f90-b59b-44de-9452-a8eb8bf69e21",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 58,
+    "Mileage": 238566.72
+  },
+  {
+    "Id": "facb3193-780b-46cb-b076-59ebdd37ac75",
+    "Model": "Mercedes-Benz",
+    "Capacity": 20,
+    "Mileage": 323308.85
+  },
+  {
+    "Id": "f7e3e17e-87a5-444e-b436-14740c309ba3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 18,
+    "Mileage": 187132.63
+  },
+  {
+    "Id": "be2baee6-49ab-4411-880e-e82ea023060b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 57,
+    "Mileage": 186217.28
+  },
+  {
+    "Id": "06776a34-7660-4a8e-91d9-5bb2951f644b",
+    "Model": "Scania",
+    "Capacity": 20,
+    "Mileage": 120812.76
+  },
+  {
+    "Id": "291c344f-c69e-4bbc-970a-ae279c63f02b",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 40,
+    "Mileage": 153625.25
+  },
+  {
+    "Id": "11ea7ed2-cf9d-44ba-b802-dafa76ec6740",
+    "Model": "Volvo",
+    "Capacity": 19,
+    "Mileage": 251100.35
+  },
+  {
+    "Id": "8d092265-d533-4637-85aa-2ac1f190f1be",
+    "Model": "Volvo",
+    "Capacity": 24,
+    "Mileage": 248305.75
+  },
+  {
+    "Id": "a6bc9af0-1c05-47a3-8b91-8ca83bdaf8a1",
+    "Model": "Volvo",
+    "Capacity": 51,
+    "Mileage": 244395.01
+  },
+  {
+    "Id": "4aa5ea98-1eff-4f47-95f8-39a407b8a136",
+    "Model": "Volvo",
+    "Capacity": 48,
+    "Mileage": 187694.37
+  },
+  {
+    "Id": "8e92e2be-daa4-4121-9039-ea827acb66e1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 57,
+    "Mileage": 153305.96
+  },
+  {
+    "Id": "4ea7e4a4-9f65-4d58-834a-28fffb23850d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 47,
+    "Mileage": 97599.02
+  },
+  {
+    "Id": "531c6c5e-1aaf-40b1-9fcc-23ae6b013b3d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 39,
+    "Mileage": 66981.45
+  },
+  {
+    "Id": "b8e55b92-b6b3-4ce9-8a17-3c3b0a498444",
+    "Model": "MAN",
+    "Capacity": 41,
+    "Mileage": 87815.69
+  },
+  {
+    "Id": "781af955-9ccd-4a09-afa8-0e1fa7f2cf02",
+    "Model": "Mercedes-Benz",
+    "Capacity": 28,
+    "Mileage": 280067.61
+  },
+  {
+    "Id": "6b2f28ab-d5dd-4fe5-b326-56e3c1dd70ed",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 54,
+    "Mileage": 349674.94
+  },
+  {
+    "Id": "0a465a81-000b-4ef2-91f3-cbed26e9b523",
+    "Model": "MAN",
+    "Capacity": 48,
+    "Mileage": 259931.38
+  },
+  {
+    "Id": "56ef0d0d-c5c2-4b3b-9588-9039b5e6aed4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 19,
+    "Mileage": 284128.26
+  },
+  {
+    "Id": "2357bf7a-a6db-43ae-a3d7-c55eab9c6164",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 33,
+    "Mileage": 178007.07
+  },
+  {
+    "Id": "c8bb0eb8-98c9-4a18-8539-2c4871f8c5bb",
+    "Model": "Ikarus",
+    "Capacity": 27,
+    "Mileage": 144244.50
+  },
+  {
+    "Id": "4998712c-34e4-48fc-b66c-b63dab3f1c4c",
+    "Model": "Ikarus",
+    "Capacity": 29,
+    "Mileage": 135695.06
+  },
+  {
+    "Id": "126f3c25-635e-4352-9026-b89c61bb28d9",
+    "Model": "MAN",
+    "Capacity": 64,
+    "Mileage": 293765.80
+  },
+  {
+    "Id": "956c452f-9812-4c7d-b40f-f899916714ae",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 52,
+    "Mileage": 35310.53
+  },
+  {
+    "Id": "d437c6a0-6c7d-4429-bbf9-ceb2ff346ca5",
+    "Model": "Mercedes-Benz",
+    "Capacity": 52,
+    "Mileage": 248298.95
+  },
+  {
+    "Id": "ea16b154-10ce-4f71-937c-e50b3f472c7a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 155171.84
+  },
+  {
+    "Id": "04ce2788-326e-4e27-9e49-75372391e348",
+    "Model": "Scania",
+    "Capacity": 18,
+    "Mileage": 362988.76
+  },
+  {
+    "Id": "b874b32f-56d3-4fdb-a5f6-4048b8d734db",
+    "Model": "Scania",
+    "Capacity": 26,
+    "Mileage": 286299.82
+  },
+  {
+    "Id": "4c1b22f9-3fbc-4267-a6d0-2681d3b3a538",
+    "Model": "Ikarus",
+    "Capacity": 51,
+    "Mileage": 115249.04
+  },
+  {
+    "Id": "87907759-bc4c-485b-adc0-81ef80541ba3",
+    "Model": "Scania",
+    "Capacity": 61,
+    "Mileage": 346037.19
+  },
+  {
+    "Id": "beaaf174-273c-4e9a-80d4-b5d02c08e75e",
+    "Model": "Volvo",
+    "Capacity": 22,
+    "Mileage": 365788.82
+  },
+  {
+    "Id": "9936a7e8-5dfe-4263-8a2f-f127122ade57",
+    "Model": "Mercedes-Benz",
+    "Capacity": 21,
+    "Mileage": 173256.10
+  },
+  {
+    "Id": "766ae899-28f3-450e-83d0-cfe8d090fdf2",
+    "Model": "Scania",
+    "Capacity": 34,
+    "Mileage": 146133.11
+  },
+  {
+    "Id": "c3d516cb-c743-4e6a-ad09-a1d75e83d986",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 64,
+    "Mileage": 389542.17
+  },
+  {
+    "Id": "7e91d4d9-9575-412b-956f-e4d873300ac4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 28,
+    "Mileage": 305795.07
+  },
+  {
+    "Id": "76e5b4aa-a264-4871-ace1-970ea00151af",
+    "Model": "Mercedes-Benz",
+    "Capacity": 61,
+    "Mileage": 249454.75
+  },
+  {
+    "Id": "ffe56be2-625f-496f-aaea-8f9a176177c0",
+    "Model": "Scania",
+    "Capacity": 45,
+    "Mileage": 207419.92
+  },
+  {
+    "Id": "7d3ed0f9-11b8-48db-af9f-4477c3ed5adf",
+    "Model": "Volvo",
+    "Capacity": 53,
+    "Mileage": 293588.75
+  },
+  {
+    "Id": "4da2385d-b05f-4bf3-906a-8e9a6eba3534",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 235992.31
+  },
+  {
+    "Id": "15118a9e-25e2-494a-9c51-c73552cab73e",
+    "Model": "MAN",
+    "Capacity": 47,
+    "Mileage": 170464.83
+  },
+  {
+    "Id": "23a8d9d5-57dd-4edf-85e6-6a96bca879f5",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 19,
+    "Mileage": 135552.70
+  },
+  {
+    "Id": "0456ec8a-0dfb-4d69-8671-ae2d222c43fc",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 56831.67
+  },
+  {
+    "Id": "a8384a3e-8738-45c6-a9d2-555eab8e9e59",
+    "Model": "Mercedes-Benz",
+    "Capacity": 26,
+    "Mileage": 88360.23
+  },
+  {
+    "Id": "33a4f1aa-8427-4b79-98cf-c6ab77883105",
+    "Model": "Volvo",
+    "Capacity": 36,
+    "Mileage": 98871.84
+  },
+  {
+    "Id": "4237e9f1-e875-4bb1-81ab-f7e36d8b5b14",
+    "Model": "Volvo",
+    "Capacity": 50,
+    "Mileage": 305170.15
+  },
+  {
+    "Id": "43c5c865-2f35-44e0-9385-7eee771f0021",
+    "Model": "Ikarus",
+    "Capacity": 34,
+    "Mileage": 23793.33
+  },
+  {
+    "Id": "5b73dbe1-432d-4534-84a9-4ae81fd90612",
+    "Model": "MAN",
+    "Capacity": 44,
+    "Mileage": 219447.24
+  },
+  {
+    "Id": "60dd4c74-007e-4c39-902d-5b7ab68e1f1b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 44,
+    "Mileage": 381881.47
+  },
+  {
+    "Id": "d122766c-00b0-4139-b09f-c45ab17b35dd",
+    "Model": "Ikarus",
+    "Capacity": 44,
+    "Mileage": 387782.89
+  },
+  {
+    "Id": "70683292-d67f-41ae-af6f-ae8ed4086388",
+    "Model": "Volvo",
+    "Capacity": 19,
+    "Mileage": 187831.44
+  },
+  {
+    "Id": "46042b39-d15d-480a-9ebe-9c1fe34ad9fd",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 35,
+    "Mileage": 65716.90
+  },
+  {
+    "Id": "cabb4bd3-8040-4eac-b051-3d805cba0736",
+    "Model": "MAN",
+    "Capacity": 46,
+    "Mileage": 362335.57
+  },
+  {
+    "Id": "083f52cb-cf4e-49bc-a66e-78f5b11f3dcd",
+    "Model": "Mercedes-Benz",
+    "Capacity": 43,
+    "Mileage": 98031.98
+  },
+  {
+    "Id": "c1af7275-79ee-4c07-b390-3708c71e4334",
+    "Model": "MAN",
+    "Capacity": 58,
+    "Mileage": 174227.30
+  },
+  {
+    "Id": "9d99abdf-215b-4ee7-b3fe-617651524121",
+    "Model": "MAN",
+    "Capacity": 62,
+    "Mileage": 82083.50
+  },
+  {
+    "Id": "56413f7e-6c51-41d1-a0cc-7a3a10a8dcca",
+    "Model": "Scania",
+    "Capacity": 55,
+    "Mileage": 391434.60
+  },
+  {
+    "Id": "0fbd76a1-eb38-4783-9872-41eba2551347",
+    "Model": "Ikarus",
+    "Capacity": 54,
+    "Mileage": 9878.36
+  },
+  {
+    "Id": "407dc3f1-22e0-423f-b947-7c89f19c379c",
+    "Model": "MAN",
+    "Capacity": 23,
+    "Mileage": 15204.84
+  },
+  {
+    "Id": "dbb671b3-2ce4-4c5b-a5bd-fee9c62cb70a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 24,
+    "Mileage": 151983.68
+  },
+  {
+    "Id": "83e4bdfc-0cd4-47f3-a83f-0a56abdcc6d1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 64,
+    "Mileage": 281545.82
+  },
+  {
+    "Id": "0f8b073b-84e7-454d-b8c6-e0be143a054f",
+    "Model": "Scania",
+    "Capacity": 30,
+    "Mileage": 179436.73
+  },
+  {
+    "Id": "d387bf39-f294-46c0-9134-6097f8350278",
+    "Model": "Mercedes-Benz",
+    "Capacity": 46,
+    "Mileage": 50817.53
+  },
+  {
+    "Id": "d7bea4c5-620a-47ce-acc0-9c3f8319acac",
+    "Model": "Mercedes-Benz",
+    "Capacity": 40,
+    "Mileage": 38598.02
+  },
+  {
+    "Id": "b1db591d-4536-49a7-930c-43663a60df06",
+    "Model": "Ikarus",
+    "Capacity": 48,
+    "Mileage": 251036.00
+  },
+  {
+    "Id": "3a2447be-b7c8-425c-bd93-b06ffd06345d",
+    "Model": "Volvo",
+    "Capacity": 40,
+    "Mileage": 99853.86
+  },
+  {
+    "Id": "7eb5751f-9b03-4664-940c-f1048609314d",
+    "Model": "Scania",
+    "Capacity": 20,
+    "Mileage": 216833.66
+  },
+  {
+    "Id": "f7fec6ae-e84f-4398-b680-49391264822b",
+    "Model": "Scania",
+    "Capacity": 56,
+    "Mileage": 40274.31
+  },
+  {
+    "Id": "f8fb3f5e-64a3-476a-a7da-f03fe44c1ae4",
+    "Model": "MAN",
+    "Capacity": 39,
+    "Mileage": 246300.25
+  },
+  {
+    "Id": "116e4ab8-bf35-4004-93ec-9367f1865417",
+    "Model": "Mercedes-Benz",
+    "Capacity": 45,
+    "Mileage": 306697.06
+  },
+  {
+    "Id": "2e509221-9b69-4b50-9be0-463a8642296e",
+    "Model": "Volvo",
+    "Capacity": 25,
+    "Mileage": 350962.23
+  },
+  {
+    "Id": "bed01e6e-dd22-4a47-a735-bbf26aefd125",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 376087.13
+  },
+  {
+    "Id": "07c633cf-723a-4dad-aa87-650ce16d81e7",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 64,
+    "Mileage": 347298.30
+  },
+  {
+    "Id": "8eca7d41-be5c-43e6-b5de-d4a9e291471e",
+    "Model": "MAN",
+    "Capacity": 41,
+    "Mileage": 140071.83
+  },
+  {
+    "Id": "b9fb0c35-6c6a-46e5-8c43-1f799f76e0eb",
+    "Model": "Scania",
+    "Capacity": 46,
+    "Mileage": 386139.23
+  },
+  {
+    "Id": "e1fe8873-99fa-4ba3-a8ea-6685c0c5e77f",
+    "Model": "Scania",
+    "Capacity": 45,
+    "Mileage": 97540.69
+  },
+  {
+    "Id": "ea6c3723-3d2f-4d96-8ff7-49f4ca97b0e6",
+    "Model": "Volvo",
+    "Capacity": 64,
+    "Mileage": 84256.49
+  },
+  {
+    "Id": "cbc53832-3743-47ce-a89f-a17f97d4983d",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 35,
+    "Mileage": 375495.02
+  },
+  {
+    "Id": "55be001b-1d28-479e-96fc-fde3fc1bc3ee",
+    "Model": "Ikarus",
+    "Capacity": 20,
+    "Mileage": 268400.56
+  },
+  {
+    "Id": "bed8590b-a57c-4203-9d5c-e3c4eccb0ea1",
+    "Model": "Volvo",
+    "Capacity": 54,
+    "Mileage": 103108.07
+  },
+  {
+    "Id": "b1b7cfdc-3198-4092-981c-a14b47741fa3",
+    "Model": "Ikarus",
+    "Capacity": 20,
+    "Mileage": 315026.42
+  },
+  {
+    "Id": "df2e3773-b534-4d2b-b000-8a2b58d67e7e",
+    "Model": "Scania",
+    "Capacity": 62,
+    "Mileage": 355668.58
+  },
+  {
+    "Id": "db8afb58-38a8-4f0b-8939-cf8df968ab6a",
+    "Model": "Mercedes-Benz",
+    "Capacity": 53,
+    "Mileage": 128697.74
+  },
+  {
+    "Id": "960ce7c8-7025-43fa-a649-d63075f66a00",
+    "Model": "Ikarus",
+    "Capacity": 46,
+    "Mileage": 150900.74
+  },
+  {
+    "Id": "b2708ee8-e068-48f1-9119-dc61595f5390",
+    "Model": "MAN",
+    "Capacity": 61,
+    "Mileage": 299031.39
+  },
+  {
+    "Id": "65ca7baf-fdc1-422c-b827-4bbc3f83607c",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 64,
+    "Mileage": 301443.43
+  },
+  {
+    "Id": "c3ba2b4a-2a3c-4e6e-bc02-b8f45ee2fd81",
+    "Model": "MAN",
+    "Capacity": 21,
+    "Mileage": 142328.97
+  },
+  {
+    "Id": "2bdd92be-5576-40d8-968d-1c5b2366e9e3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 41,
+    "Mileage": 48494.87
+  },
+  {
+    "Id": "971237ba-291d-4646-8d4f-8325c282d519",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 44,
+    "Mileage": 393789.14
+  },
+  {
+    "Id": "8b53528b-f2d1-4dd6-b23c-c55ac6903ffd",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 49,
+    "Mileage": 11928.07
+  },
+  {
+    "Id": "90855d37-ac91-4a09-8af8-440a3e5aa6c4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 49,
+    "Mileage": 18189.45
+  },
+  {
+    "Id": "b9b44018-e238-4393-b57d-7f739fd30732",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 63,
+    "Mileage": 205138.40
+  },
+  {
+    "Id": "33be2785-63a0-437e-9c6b-5c86c15d1ba8",
+    "Model": "Volvo",
+    "Capacity": 52,
+    "Mileage": 392453.61
+  },
+  {
+    "Id": "45c2d01f-6c7c-4b33-a879-2010678d10ed",
+    "Model": "MAN",
+    "Capacity": 56,
+    "Mileage": 73020.79
+  },
+  {
+    "Id": "81b1c13f-516b-4956-99e9-35c614796a16",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 358378.88
+  },
+  {
+    "Id": "1197f4d0-c3a0-4d7b-8361-f4f01b11c673",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 60,
+    "Mileage": 169629.46
+  },
+  {
+    "Id": "6a655908-11f6-4085-bc01-cd406024b0ac",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 55,
+    "Mileage": 275721.62
+  },
+  {
+    "Id": "624c1c52-7b53-47bc-a3c8-a7111aa90f2d",
+    "Model": "Ikarus",
+    "Capacity": 64,
+    "Mileage": 215978.30
+  },
+  {
+    "Id": "a8e996d0-db0c-4652-8bd1-dd2c057aa6d9",
+    "Model": "Mercedes-Benz",
+    "Capacity": 28,
+    "Mileage": 86419.66
+  },
+  {
+    "Id": "68da4eaf-9de3-47c0-964f-1675c75c03c0",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 38,
+    "Mileage": 315490.23
+  },
+  {
+    "Id": "8010fd02-42c2-4bea-94c0-5210ed4b9024",
+    "Model": "MAN",
+    "Capacity": 20,
+    "Mileage": 283498.46
+  },
+  {
+    "Id": "1b9c7679-a2ac-4f18-a88c-4cee15d10e2a",
+    "Model": "Ikarus",
+    "Capacity": 46,
+    "Mileage": 48241.51
+  },
+  {
+    "Id": "41d4b9bb-855f-4fc5-9d64-b1041ef8fecd",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 25,
+    "Mileage": 69296.39
+  },
+  {
+    "Id": "2d1e2cf4-2712-4aaf-b543-90210653ea4f",
+    "Model": "Volvo",
+    "Capacity": 43,
+    "Mileage": 1785.70
+  },
+  {
+    "Id": "dcd52df5-c2f8-4974-807d-00d1a50d249b",
+    "Model": "MAN",
+    "Capacity": 23,
+    "Mileage": 357375.14
+  },
+  {
+    "Id": "064fd1c9-a499-45df-9f7e-98112d057ae0",
+    "Model": "MAN",
+    "Capacity": 54,
+    "Mileage": 169840.61
+  },
+  {
+    "Id": "5b036e00-9f9c-4b65-9418-e4b8fedf9b72",
+    "Model": "Volvo",
+    "Capacity": 56,
+    "Mileage": 158948.96
+  },
+  {
+    "Id": "850f0f58-a59d-4c07-87a2-b158f42e74b5",
+    "Model": "Ikarus",
+    "Capacity": 62,
+    "Mileage": 100315.06
+  },
+  {
+    "Id": "c03f4602-b302-4d0d-9def-3a832687c3a5",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 322869.35
+  },
+  {
+    "Id": "cc26d173-ec1e-4d10-8089-6ecf13a9a825",
+    "Model": "Volvo",
+    "Capacity": 23,
+    "Mileage": 301314.29
+  },
+  {
+    "Id": "3fc74d3d-83d1-47fe-8874-a43fc9fb0b39",
+    "Model": "Scania",
+    "Capacity": 34,
+    "Mileage": 382778.61
+  },
+  {
+    "Id": "32af6239-81ed-4199-a84d-ce2bbe696671",
+    "Model": "Ikarus",
+    "Capacity": 37,
+    "Mileage": 301418.75
+  },
+  {
+    "Id": "e24d117c-9d80-4415-822b-7e7f089bd796",
+    "Model": "Scania",
+    "Capacity": 27,
+    "Mileage": 288327.65
+  },
+  {
+    "Id": "f3f9b524-1f68-40b3-a2fd-7f76dfa0e915",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 53,
+    "Mileage": 379958.22
+  },
+  {
+    "Id": "b2ad7f19-9b1a-4f77-a969-0bf051b87709",
+    "Model": "MAN",
+    "Capacity": 61,
+    "Mileage": 48472.31
+  },
+  {
+    "Id": "6f000f43-507a-44ef-a838-17c010f5e0fe",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 34,
+    "Mileage": 277447.91
+  },
+  {
+    "Id": "cf9aebc8-84b5-4ecb-9a5e-d4f42ae40ab1",
+    "Model": "Mercedes-Benz",
+    "Capacity": 36,
+    "Mileage": 395108.10
+  },
+  {
+    "Id": "2374954c-39a3-4f83-aee2-6bd4ef450d77",
+    "Model": "Mercedes-Benz",
+    "Capacity": 53,
+    "Mileage": 111423.89
+  },
+  {
+    "Id": "d2f4221f-2e43-4cd4-91ae-a66a05abdbd0",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 46,
+    "Mileage": 96294.64
+  },
+  {
+    "Id": "1c0a547b-51ee-4d0e-9270-9c28bb77449b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 47,
+    "Mileage": 311881.53
+  },
+  {
+    "Id": "42039227-19f1-496d-b7a2-075b06912920",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 52,
+    "Mileage": 348359.65
+  },
+  {
+    "Id": "c3371665-ee4e-4a68-ab66-9d6588beaaf4",
+    "Model": "Mercedes-Benz",
+    "Capacity": 36,
+    "Mileage": 111950.55
+  },
+  {
+    "Id": "daba1fa0-ba3b-4f27-8a47-328004a6e130",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 59,
+    "Mileage": 284025.84
+  },
+  {
+    "Id": "be4d2c83-0eb7-437d-bc4d-9750465790ce",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 53,
+    "Mileage": 178126.39
+  },
+  {
+    "Id": "fa7dd347-fda5-4e4e-988c-c367dd49af73",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 35,
+    "Mileage": 77722.03
+  },
+  {
+    "Id": "9f59963f-94bf-4017-8ce0-f908e83983f4",
+    "Model": "Ikarus",
+    "Capacity": 49,
+    "Mileage": 121742.92
+  },
+  {
+    "Id": "9ee74161-e75e-4367-bc69-e6928fca8b87",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 52,
+    "Mileage": 342917.48
+  },
+  {
+    "Id": "cceb494e-4815-4b39-8c31-571c0dba824a",
+    "Model": "Volvo",
+    "Capacity": 56,
+    "Mileage": 387464.72
+  },
+  {
+    "Id": "757e7749-0071-43ae-bd15-3d76a883fbdd",
+    "Model": "MAN",
+    "Capacity": 31,
+    "Mileage": 297589.49
+  },
+  {
+    "Id": "59dd38e7-cee6-4ae8-90bd-85c1e6ab9fb3",
+    "Model": "Volvo",
+    "Capacity": 33,
+    "Mileage": 288329.55
+  },
+  {
+    "Id": "381c08a1-eb92-4b99-8e4b-d8a81c3952ca",
+    "Model": "Scania",
+    "Capacity": 22,
+    "Mileage": 120532.27
+  },
+  {
+    "Id": "29f10dc5-b283-47a0-9025-739cddca1ff8",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 19,
+    "Mileage": 149066.59
+  },
+  {
+    "Id": "6e9ddef6-d60e-41ad-8a2f-4a83d4a1f192",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 23,
+    "Mileage": 211502.13
+  },
+  {
+    "Id": "4d60a35e-996e-4e8d-8113-7f28a7138b27",
+    "Model": "Volvo",
+    "Capacity": 59,
+    "Mileage": 11800.52
+  },
+  {
+    "Id": "5277e679-6319-4598-8aeb-797c0635bdbe",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 50,
+    "Mileage": 282899.30
+  },
+  {
+    "Id": "6ec7be83-60b7-4da5-a771-ee2c824c34ea",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 49,
+    "Mileage": 129969.58
+  },
+  {
+    "Id": "808fc606-d1c9-451c-9de9-8afb9bae3726",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 36,
+    "Mileage": 124427.88
+  },
+  {
+    "Id": "316d1ad6-13b3-4929-a7a3-76d247bd2c4b",
+    "Model": "Volvo",
+    "Capacity": 19,
+    "Mileage": 75150.05
+  },
+  {
+    "Id": "dc7063ce-1377-4eb1-a3f2-6a375fdbad19",
+    "Model": "Ikarus",
+    "Capacity": 55,
+    "Mileage": 160673.70
+  },
+  {
+    "Id": "64eb8196-0365-4234-954b-fa5fc5421ebf",
+    "Model": "Scania",
+    "Capacity": 35,
+    "Mileage": 396661.91
+  },
+  {
+    "Id": "cb8cf937-a98b-4436-a7b5-eb81ca7b8556",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 49,
+    "Mileage": 337791.14
+  },
+  {
+    "Id": "a2df238b-a7e5-4505-ac08-5d54018f5bc4",
+    "Model": "Scania",
+    "Capacity": 54,
+    "Mileage": 361614.86
+  },
+  {
+    "Id": "9095c942-abb8-4b86-9222-2cab5b6e0f6a",
+    "Model": "Ikarus",
+    "Capacity": 36,
+    "Mileage": 393384.66
+  },
+  {
+    "Id": "055d9783-1da0-4885-b6f9-b259a533e6b3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 48,
+    "Mileage": 152936.81
+  },
+  {
+    "Id": "24cc39c8-805f-461b-80c9-a578ed395320",
+    "Model": "MAN",
+    "Capacity": 59,
+    "Mileage": 264441.59
+  },
+  {
+    "Id": "d00163a2-5f66-4228-88a1-9347d272d191",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 34,
+    "Mileage": 69512.75
+  },
+  {
+    "Id": "b23d9b14-06fe-4c71-a5a1-92e58b49a72d",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 351791.14
+  },
+  {
+    "Id": "ed2cf6e6-887a-4736-8807-e30c6a6e0520",
+    "Model": "Scania",
+    "Capacity": 56,
+    "Mileage": 52263.77
+  },
+  {
+    "Id": "bda619d9-ccb9-49a4-b2e5-b4c54ae05636",
+    "Model": "MAN",
+    "Capacity": 53,
+    "Mileage": 216988.54
+  },
+  {
+    "Id": "eb8f71bc-e614-4c05-8cab-e5e69ad66e61",
+    "Model": "MAN",
+    "Capacity": 44,
+    "Mileage": 134467.30
+  },
+  {
+    "Id": "484d5ec2-ad9e-4057-9352-a956360e2668",
+    "Model": "Ikarus",
+    "Capacity": 36,
+    "Mileage": 70274.88
+  },
+  {
+    "Id": "21abab96-5546-48ce-8665-3fd6b96b733b",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 30588.83
+  },
+  {
+    "Id": "ace3d62e-dcc8-46aa-831b-6d080cd2b5b9",
+    "Model": "MAN",
+    "Capacity": 59,
+    "Mileage": 358966.37
+  },
+  {
+    "Id": "40a50182-fdbf-49e1-9be5-993004fe4061",
+    "Model": "Ikarus",
+    "Capacity": 35,
+    "Mileage": 133303.60
+  },
+  {
+    "Id": "f734638d-4237-41ea-97bd-213b1ed626f3",
+    "Model": "Scania",
+    "Capacity": 32,
+    "Mileage": 162163.91
+  },
+  {
+    "Id": "7769ae47-d399-4b54-9b3c-58d58b49092e",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 56,
+    "Mileage": 174972.97
+  },
+  {
+    "Id": "12df74ca-8141-4d2c-9efb-c847c6830fae",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 35,
+    "Mileage": 84965.96
+  },
+  {
+    "Id": "cd63ec8c-d93f-4709-88e4-1ca10ef5a96c",
+    "Model": "Ikarus",
+    "Capacity": 44,
+    "Mileage": 50029.48
+  },
+  {
+    "Id": "f251c00e-04af-416e-94dc-fa9327910357",
+    "Model": "Scania",
+    "Capacity": 26,
+    "Mileage": 363916.29
+  },
+  {
+    "Id": "757f0708-8f25-421a-aadf-e9fcecad4d91",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 29,
+    "Mileage": 300929.27
+  },
+  {
+    "Id": "2a322b53-10f4-4fc5-9668-1ea96d9a0b29",
+    "Model": "Mercedes-Benz",
+    "Capacity": 62,
+    "Mileage": 47790.08
+  },
+  {
+    "Id": "79741b73-a810-49bb-846b-dfc7876026ea",
+    "Model": "Volvo",
+    "Capacity": 63,
+    "Mileage": 399813.58
+  },
+  {
+    "Id": "6e90c96b-e8d4-4d12-951c-8dc3b9c73ec8",
+    "Model": "Ikarus",
+    "Capacity": 40,
+    "Mileage": 287599.34
+  },
+  {
+    "Id": "e9f067cc-e8f6-4e81-95ae-110e2883c7f4",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 194485.41
+  },
+  {
+    "Id": "35fe91c7-364d-4127-9b72-82c277ea7b6d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 22,
+    "Mileage": 347978.58
+  },
+  {
+    "Id": "518b14ae-966a-4a40-bb80-33ba1c505a29",
+    "Model": "Volvo",
+    "Capacity": 47,
+    "Mileage": 246756.04
+  },
+  {
+    "Id": "9f399850-94f1-4459-be14-758ba9921633",
+    "Model": "Scania",
+    "Capacity": 20,
+    "Mileage": 212571.64
+  },
+  {
+    "Id": "b459b913-54de-4f81-a6a6-ef8ceb41e0ec",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 61,
+    "Mileage": 311905.37
+  },
+  {
+    "Id": "d416de23-a624-436d-8f9a-cd9ff45d7a69",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 24,
+    "Mileage": 79141.32
+  },
+  {
+    "Id": "611fe89b-dc52-4f82-9416-8cf9472a386e",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 49,
+    "Mileage": 63701.55
+  },
+  {
+    "Id": "98ada5c7-198f-4db8-9bd5-3664bf4b35ab",
+    "Model": "Volvo",
+    "Capacity": 39,
+    "Mileage": 247472.74
+  },
+  {
+    "Id": "5de2d822-7002-4480-8ddd-cc902d3e3eea",
+    "Model": "Ikarus",
+    "Capacity": 44,
+    "Mileage": 274024.40
+  },
+  {
+    "Id": "8ea5fcba-2f53-4629-9f9f-3537bb2e06ee",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 262059.86
+  },
+  {
+    "Id": "99686818-0b12-424f-bc15-18a6a8860f38",
+    "Model": "Mercedes-Benz",
+    "Capacity": 39,
+    "Mileage": 247724.17
+  },
+  {
+    "Id": "f3581352-db6b-41d3-8d8e-890f966c974a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 38,
+    "Mileage": 32071.22
+  },
+  {
+    "Id": "cb22a35c-ae68-4192-971c-2bb7e6affe99",
+    "Model": "Mercedes-Benz",
+    "Capacity": 57,
+    "Mileage": 254564.24
+  },
+  {
+    "Id": "1db5fca1-d241-443a-a597-37595fcbb384",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 37,
+    "Mileage": 123789.08
+  },
+  {
+    "Id": "b7630df0-ecb9-4598-9bc4-3efa240345f5",
+    "Model": "Ikarus",
+    "Capacity": 59,
+    "Mileage": 21836.96
+  },
+  {
+    "Id": "be834e95-0a4e-4b01-b98b-a05ee8eb1a1a",
+    "Model": "Volvo",
+    "Capacity": 57,
+    "Mileage": 390216.94
+  },
+  {
+    "Id": "b447c410-e186-4727-894b-0fdfa0266bb9",
+    "Model": "Scania",
+    "Capacity": 51,
+    "Mileage": 79223.15
+  },
+  {
+    "Id": "4039fb6c-74b6-4763-b8c8-16bc3bf7246a",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 19,
+    "Mileage": 391133.14
+  },
+  {
+    "Id": "ba2a5410-9b48-408e-abb5-7e0023dc0044",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 52,
+    "Mileage": 44363.89
+  },
+  {
+    "Id": "0c014474-5550-4811-8b73-531a064c4842",
+    "Model": "Scania",
+    "Capacity": 26,
+    "Mileage": 79867.11
+  },
+  {
+    "Id": "82f0d13f-52f1-4837-b3e7-9d4cb4ff5303",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 31,
+    "Mileage": 390283.03
+  },
+  {
+    "Id": "6c7ff6e5-b92e-43aa-966c-c47aee0af619",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 40,
+    "Mileage": 368804.70
+  },
+  {
+    "Id": "5d49ffc7-a672-4cb0-8c18-cf10a3c19a39",
+    "Model": "MAN",
+    "Capacity": 34,
+    "Mileage": 293359.45
+  },
+  {
+    "Id": "fc7b9fb3-3086-4a68-b894-ff746a48effb",
+    "Model": "Ikarus",
+    "Capacity": 18,
+    "Mileage": 318709.16
+  },
+  {
+    "Id": "3bfcd89e-700f-4f66-aa4e-f650707a2ce8",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 30,
+    "Mileage": 35122.06
+  },
+  {
+    "Id": "7f3046ca-23fe-4f73-929d-b4d367198b1e",
+    "Model": "Mercedes-Benz",
+    "Capacity": 18,
+    "Mileage": 131436.94
+  },
+  {
+    "Id": "99f54cc3-2315-43eb-b483-dc14011ec7f4",
+    "Model": "Scania",
+    "Capacity": 60,
+    "Mileage": 136342.20
+  },
+  {
+    "Id": "1cfe6ada-f3c0-43b7-883b-21d8805b1763",
+    "Model": "Ikarus",
+    "Capacity": 46,
+    "Mileage": 308651.53
+  },
+  {
+    "Id": "9e8fd365-0f9c-4cf1-9d20-1ad7e57e7875",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 347005.89
+  },
+  {
+    "Id": "4397ebc1-8bf7-4b72-9147-451e73a5f76c",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 360163.96
+  },
+  {
+    "Id": "b6107c29-06be-4e8b-a79e-80a879a39076",
+    "Model": "MAN",
+    "Capacity": 44,
+    "Mileage": 305631.32
+  },
+  {
+    "Id": "1abb1f3f-4434-45b3-bfcc-29d470b31acf",
+    "Model": "MAN",
+    "Capacity": 49,
+    "Mileage": 152943.90
+  },
+  {
+    "Id": "8ec6716d-79f7-43de-97b1-5dfb5aae5043",
+    "Model": "Volvo",
+    "Capacity": 43,
+    "Mileage": 23948.08
+  },
+  {
+    "Id": "6bb0e88b-6f6a-445c-8e7e-095727097e5a",
+    "Model": "MAN",
+    "Capacity": 58,
+    "Mileage": 281120.79
+  },
+  {
+    "Id": "a9d37ebf-ce57-4602-8bb6-8a776c177448",
+    "Model": "Volvo",
+    "Capacity": 36,
+    "Mileage": 69350.06
+  },
+  {
+    "Id": "8b7fb532-4bb4-482a-8f31-194da59e3ccc",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 59,
+    "Mileage": 228847.69
+  },
+  {
+    "Id": "6aca5a3e-640b-44b3-8dd5-702c17f2f62e",
+    "Model": "Ikarus",
+    "Capacity": 42,
+    "Mileage": 239101.90
+  },
+  {
+    "Id": "63cba5aa-8bd1-48f1-acc0-ed7ecfcf6f54",
+    "Model": "Ikarus",
+    "Capacity": 45,
+    "Mileage": 362474.33
+  },
+  {
+    "Id": "4d7903a2-2ae4-49b9-ab8e-7dca37179f7a",
+    "Model": "Ikarus",
+    "Capacity": 19,
+    "Mileage": 252878.21
+  },
+  {
+    "Id": "a9ba161e-6e02-4c19-a183-622d37716fa2",
+    "Model": "Scania",
+    "Capacity": 55,
+    "Mileage": 275535.24
+  },
+  {
+    "Id": "e37e1f56-595f-4189-b893-36a7153aedb7",
+    "Model": "Scania",
+    "Capacity": 44,
+    "Mileage": 397825.50
+  },
+  {
+    "Id": "cff8d0a5-1f2d-4204-9bfb-8d0270d442cc",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 19,
+    "Mileage": 150516.25
+  },
+  {
+    "Id": "fa56a087-3b68-482a-85be-8d2b9fd971d7",
+    "Model": "MAN",
+    "Capacity": 40,
+    "Mileage": 91680.66
+  },
+  {
+    "Id": "b1bdfa31-26d8-434c-b2de-f039259327ed",
+    "Model": "Volvo",
+    "Capacity": 61,
+    "Mileage": 46086.10
+  },
+  {
+    "Id": "4cfc5f57-1436-4c5e-ba86-d6a53994da57",
+    "Model": "Scania",
+    "Capacity": 22,
+    "Mileage": 28628.10
+  },
+  {
+    "Id": "0a2c8716-548c-488d-b784-769e7f8f27db",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 63,
+    "Mileage": 365476.68
+  },
+  {
+    "Id": "67ee1937-0373-43eb-a962-9f5e9ac5b636",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 87842.40
+  },
+  {
+    "Id": "c25bdf89-f56a-4453-93a8-a4b3c0bf3acb",
+    "Model": "Mercedes-Benz",
+    "Capacity": 43,
+    "Mileage": 15273.44
+  },
+  {
+    "Id": "6e11df42-acd0-4b93-b640-2a3d083ac9ea",
+    "Model": "Scania",
+    "Capacity": 48,
+    "Mileage": 93302.08
+  },
+  {
+    "Id": "62c83b1b-b650-4394-a1aa-84c71a69e203",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 31,
+    "Mileage": 235582.35
+  },
+  {
+    "Id": "9d2c1914-6c08-4c5f-89b5-9829ca1b5f03",
+    "Model": "Ikarus",
+    "Capacity": 28,
+    "Mileage": 293719.70
+  },
+  {
+    "Id": "09ce16cf-45bb-439b-a0d2-ed2fda0c12d2",
+    "Model": "Ikarus",
+    "Capacity": 40,
+    "Mileage": 370709.47
+  },
+  {
+    "Id": "4d38503d-f326-43df-9018-3122eec360af",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 27,
+    "Mileage": 61823.06
+  },
+  {
+    "Id": "61b7e979-43e7-4e90-a4f7-044c3987ff72",
+    "Model": "MAN",
+    "Capacity": 48,
+    "Mileage": 131532.47
+  },
+  {
+    "Id": "bec75373-ffc6-44e4-94ae-dd2221c45756",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 63,
+    "Mileage": 232638.33
+  },
+  {
+    "Id": "4880745a-a4e3-4b2d-a943-87958ea4057f",
+    "Model": "Mercedes-Benz",
+    "Capacity": 48,
+    "Mileage": 26501.66
+  },
+  {
+    "Id": "89d2e648-45c5-49ee-9e2c-22b6cea332be",
+    "Model": "Ikarus",
+    "Capacity": 53,
+    "Mileage": 193133.53
+  },
+  {
+    "Id": "d8f13745-3896-403c-b7b2-2f2abed0c850",
+    "Model": "Mercedes-Benz",
+    "Capacity": 43,
+    "Mileage": 345308.73
+  },
+  {
+    "Id": "438eb92b-a5c3-4ef8-ae51-e675eb3b839e",
+    "Model": "MAN",
+    "Capacity": 42,
+    "Mileage": 173113.16
+  },
+  {
+    "Id": "11bc700b-8344-4d35-98ef-16845cdc6f30",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 62,
+    "Mileage": 254054.76
+  },
+  {
+    "Id": "f29abe45-5927-4e7f-8e86-35ad5b33aa58",
+    "Model": "MAN",
+    "Capacity": 25,
+    "Mileage": 202737.52
+  },
+  {
+    "Id": "aa1b3555-1ec0-4201-96a1-dc71bc7ffab0",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 19,
+    "Mileage": 89003.95
+  },
+  {
+    "Id": "97bb1780-bca3-4e33-a4c6-84a6de8c6525",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 173894.29
+  },
+  {
+    "Id": "34f85f2f-a2f6-4f6f-b6ee-83e9bff50228",
+    "Model": "Scania",
+    "Capacity": 19,
+    "Mileage": 64060.81
+  },
+  {
+    "Id": "77b3adc6-a392-468a-b606-9a584138ef22",
+    "Model": "Volvo",
+    "Capacity": 49,
+    "Mileage": 209166.87
+  },
+  {
+    "Id": "28a33110-2399-4793-8ed5-e73555d1c252",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 59,
+    "Mileage": 92158.51
+  },
+  {
+    "Id": "5a3dad53-2be8-4267-a527-0ca1f7e72e88",
+    "Model": "MAN",
+    "Capacity": 44,
+    "Mileage": 151529.87
+  },
+  {
+    "Id": "b13fa99c-d666-4a66-83c2-732b40adb33b",
+    "Model": "Ikarus",
+    "Capacity": 54,
+    "Mileage": 129440.73
+  },
+  {
+    "Id": "51194fc8-d315-4563-a6be-8f0b99bc05ab",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 19,
+    "Mileage": 245543.16
+  },
+  {
+    "Id": "bb67c104-b044-4281-aabe-5e6e3a8aa011",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 318241.54
+  },
+  {
+    "Id": "f7be0191-30e8-4c1b-8639-7fca8eee0f26",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 54,
+    "Mileage": 74084.46
+  },
+  {
+    "Id": "a8534b30-a884-4a99-a5a7-05105697864e",
+    "Model": "MAN",
+    "Capacity": 20,
+    "Mileage": 17703.07
+  },
+  {
+    "Id": "9f9eb4e5-d2ce-4e15-8501-c58da6ac6316",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 59,
+    "Mileage": 270822.35
+  },
+  {
+    "Id": "bc16b6ab-f74a-428d-9395-ebb74b8c5355",
+    "Model": "Volvo",
+    "Capacity": 22,
+    "Mileage": 222313.34
+  },
+  {
+    "Id": "a9bb7d3b-18d7-4036-9ad0-65216cad6080",
+    "Model": "Volvo",
+    "Capacity": 59,
+    "Mileage": 59848.56
+  },
+  {
+    "Id": "d11e6b46-a762-44ed-bd85-77ed1770f917",
+    "Model": "Volvo",
+    "Capacity": 59,
+    "Mileage": 330695.68
+  },
+  {
+    "Id": "12df312e-5402-4803-8890-00ed89597e7e",
+    "Model": "Ikarus",
+    "Capacity": 36,
+    "Mileage": 40485.24
+  },
+  {
+    "Id": "43cb1e72-ecba-4764-95d1-902f62c0c8db",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 36,
+    "Mileage": 116846.92
+  },
+  {
+    "Id": "6bc1de44-1819-4929-b8d1-bb31acec13ee",
+    "Model": "Mercedes-Benz",
+    "Capacity": 33,
+    "Mileage": 329328.01
+  },
+  {
+    "Id": "836bf93a-d539-4d3c-afdb-a4d8f757d012",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 256184.62
+  },
+  {
+    "Id": "397ad8c6-efb3-4649-adda-50c8693cb5cc",
+    "Model": "Scania",
+    "Capacity": 52,
+    "Mileage": 78999.53
+  },
+  {
+    "Id": "107ce958-3296-4ee8-be6a-d9fcb851550b",
+    "Model": "Scania",
+    "Capacity": 61,
+    "Mileage": 278241.77
+  },
+  {
+    "Id": "3dbeb8ea-afdd-4ed2-97c7-76607f8ef25c",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 198591.66
+  },
+  {
+    "Id": "d185cdb6-b455-4b25-8ec7-21e4901f9007",
+    "Model": "Volvo",
+    "Capacity": 33,
+    "Mileage": 124070.68
+  },
+  {
+    "Id": "f214c92b-eec0-4818-8f79-376132333d69",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 53,
+    "Mileage": 108253.96
+  },
+  {
+    "Id": "4369c2b3-fac1-4aa4-ab9d-c0d4809ee914",
+    "Model": "Mercedes-Benz",
+    "Capacity": 30,
+    "Mileage": 186784.44
+  },
+  {
+    "Id": "81212356-a756-403d-9e76-2e1e6b92e7dd",
+    "Model": "Ikarus",
+    "Capacity": 18,
+    "Mileage": 160827.36
+  },
+  {
+    "Id": "2ad1b218-4acb-42fe-b387-02ad9266667b",
+    "Model": "MAN",
+    "Capacity": 20,
+    "Mileage": 42038.51
+  },
+  {
+    "Id": "e6a6981b-ba1f-43bd-8c4e-e6f7be54e74c",
+    "Model": "MAN",
+    "Capacity": 25,
+    "Mileage": 145449.15
+  },
+  {
+    "Id": "ddb970a0-4a28-41d8-b9d8-705ccdcc4bbb",
+    "Model": "Volvo",
+    "Capacity": 52,
+    "Mileage": 141760.88
+  },
+  {
+    "Id": "7c6d7f65-3619-4742-a16b-ea0e78686375",
+    "Model": "Ikarus",
+    "Capacity": 32,
+    "Mileage": 83569.25
+  },
+  {
+    "Id": "bfe068af-370c-4182-8057-a3fde1489c4b",
+    "Model": "Volvo",
+    "Capacity": 23,
+    "Mileage": 153952.52
+  },
+  {
+    "Id": "6b79cb21-a284-4cfd-a7d6-864653fef985",
+    "Model": "Scania",
+    "Capacity": 23,
+    "Mileage": 35954.27
+  },
+  {
+    "Id": "8598d439-7ae0-4791-bce3-784fb52d429b",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 31,
+    "Mileage": 177916.02
+  },
+  {
+    "Id": "d9ed5c70-eef5-4811-8701-09358af05b29",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 39,
+    "Mileage": 146326.19
+  },
+  {
+    "Id": "f5d5195e-521f-44ca-bdae-da8fb19785e7",
+    "Model": "MAN",
+    "Capacity": 33,
+    "Mileage": 238101.32
+  },
+  {
+    "Id": "848ee2b7-da3c-472d-910e-1bb1fbcdab06",
+    "Model": "Ikarus",
+    "Capacity": 27,
+    "Mileage": 113111.19
+  },
+  {
+    "Id": "6023f735-9d18-4316-86c1-360f42017dfb",
+    "Model": "Ikarus",
+    "Capacity": 44,
+    "Mileage": 89069.03
+  },
+  {
+    "Id": "8f265972-6d9f-4af2-8257-372b561642bf",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 77503.90
+  },
+  {
+    "Id": "98e0da5a-06eb-4b4c-a62c-bb205824e2dd",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 22,
+    "Mileage": 191214.03
+  },
+  {
+    "Id": "e6a9a6a8-dfd5-4331-accd-715db9357d27",
+    "Model": "Mercedes-Benz",
+    "Capacity": 53,
+    "Mileage": 357996.62
+  },
+  {
+    "Id": "9632f57f-2194-4f50-9bc3-504d5f1addcf",
+    "Model": "Mercedes-Benz",
+    "Capacity": 64,
+    "Mileage": 330384.17
+  },
+  {
+    "Id": "5ebd6e32-f986-4aae-bd4e-e8c6370b9bd8",
+    "Model": "MAN",
+    "Capacity": 47,
+    "Mileage": 122786.21
+  },
+  {
+    "Id": "24e4b9cc-0e64-46f5-81f6-9f71fdafcaa2",
+    "Model": "Ikarus",
+    "Capacity": 50,
+    "Mileage": 291653.37
+  },
+  {
+    "Id": "4380b1e2-158d-46d5-9f6b-3bfa17bee5d5",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 54,
+    "Mileage": 125493.15
+  },
+  {
+    "Id": "260377de-7495-45c4-a763-556a38c005ca",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 52,
+    "Mileage": 243805.87
+  },
+  {
+    "Id": "72ca5846-bc54-4e23-89cb-9116ca379d4c",
+    "Model": "Ikarus",
+    "Capacity": 49,
+    "Mileage": 210688.74
+  },
+  {
+    "Id": "256993ad-b455-460a-8884-8ab7910f82ba",
+    "Model": "MAN",
+    "Capacity": 39,
+    "Mileage": 123528.69
+  },
+  {
+    "Id": "9281d112-91f9-4b99-8fd3-6b4a091c6c4c",
+    "Model": "Ikarus",
+    "Capacity": 52,
+    "Mileage": 261244.23
+  },
+  {
+    "Id": "e9190e30-ec29-41f6-bd99-07c692803fae",
+    "Model": "Scania",
+    "Capacity": 64,
+    "Mileage": 340922.95
+  },
+  {
+    "Id": "f68147ce-8be3-4862-a9a5-3a51070d45ea",
+    "Model": "Scania",
+    "Capacity": 18,
+    "Mileage": 377657.31
+  },
+  {
+    "Id": "3a29ca3c-913c-477c-be0c-9f670eb8becf",
+    "Model": "MAN",
+    "Capacity": 30,
+    "Mileage": 134753.64
+  },
+  {
+    "Id": "7e3c3d02-b970-4199-a1c9-e33662a175d0",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 44,
+    "Mileage": 29822.97
+  },
+  {
+    "Id": "088dfb26-b385-404e-9d4b-1f330bc852a2",
+    "Model": "Ikarus",
+    "Capacity": 41,
+    "Mileage": 100057.71
+  },
+  {
+    "Id": "e879cf26-7da1-4966-9357-74fd82592a33",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 61,
+    "Mileage": 232800.31
+  },
+  {
+    "Id": "d0eeccc4-1aaa-4a50-88e0-f11c20dc7f03",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 45,
+    "Mileage": 91123.50
+  },
+  {
+    "Id": "19580cad-4a6d-4605-b425-b07c2ab2ad1e",
+    "Model": "Scania",
+    "Capacity": 48,
+    "Mileage": 300606.04
+  },
+  {
+    "Id": "d4698a4c-a321-466c-9e88-0b23910cc094",
+    "Model": "Volvo",
+    "Capacity": 28,
+    "Mileage": 286104.29
+  },
+  {
+    "Id": "b457aa54-cea7-4be7-9da4-f2da192e185f",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 18,
+    "Mileage": 171731.54
+  },
+  {
+    "Id": "f0946057-1bb3-4e88-aaa5-d252184986e7",
+    "Model": "MAN",
+    "Capacity": 45,
+    "Mileage": 293670.53
+  },
+  {
+    "Id": "218edfc7-e000-4134-bbb0-5eca21ac2723",
+    "Model": "Ikarus",
+    "Capacity": 37,
+    "Mileage": 182380.73
+  },
+  {
+    "Id": "dc286309-4041-4926-84eb-2eecbc1035aa",
+    "Model": "Volvo",
+    "Capacity": 26,
+    "Mileage": 97554.32
+  },
+  {
+    "Id": "f0a4590f-3d41-4bd7-9b07-43251d508c37",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 32,
+    "Mileage": 128104.37
+  },
+  {
+    "Id": "5ce6b8e8-f475-4b53-a013-4ae91b291baf",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 30,
+    "Mileage": 396468.43
+  },
+  {
+    "Id": "2a1be81c-928e-472e-b117-c696a598e4c4",
+    "Model": "MAN",
+    "Capacity": 27,
+    "Mileage": 44629.03
+  },
+  {
+    "Id": "be44ff97-1635-4e17-baf2-73af859bf62d",
+    "Model": "Volvo",
+    "Capacity": 62,
+    "Mileage": 360957.18
+  },
+  {
+    "Id": "ea67f542-0fd5-43af-9fd5-562937e1a7bd",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 39,
+    "Mileage": 264128.61
+  },
+  {
+    "Id": "2ee664dc-586d-4e12-980a-f3ff1c5e9f9c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 38,
+    "Mileage": 266268.90
+  },
+  {
+    "Id": "a1e2b015-bceb-40ae-81e6-bda238ae9397",
+    "Model": "Volvo",
+    "Capacity": 58,
+    "Mileage": 166378.44
+  },
+  {
+    "Id": "f00cc234-290a-4692-93c9-ffa3099662d1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 22,
+    "Mileage": 135295.73
+  },
+  {
+    "Id": "f4ab4f5e-bbfd-4e5a-88f2-c5ca9654ce69",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 50,
+    "Mileage": 381518.24
+  },
+  {
+    "Id": "63b0f0b5-8f92-4a6c-86ec-379ef3ffd326",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 342803.11
+  },
+  {
+    "Id": "3a26ee2a-e626-477b-a0db-df7eaa784292",
+    "Model": "Ikarus",
+    "Capacity": 19,
+    "Mileage": 274954.98
+  },
+  {
+    "Id": "ac25d739-1123-4163-86e2-3ec17222a542",
+    "Model": "MAN",
+    "Capacity": 48,
+    "Mileage": 272947.34
+  },
+  {
+    "Id": "0dace8aa-b1b0-4a55-ba0b-51fad22dad54",
+    "Model": "MAN",
+    "Capacity": 41,
+    "Mileage": 350499.83
+  },
+  {
+    "Id": "8d39ee58-88ed-40de-bb1f-7469ff66ac56",
+    "Model": "Mercedes-Benz",
+    "Capacity": 24,
+    "Mileage": 198121.48
+  },
+  {
+    "Id": "afe7644d-0742-49f6-9e86-bfed533593e3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 29,
+    "Mileage": 316156.58
+  },
+  {
+    "Id": "a1d20bc9-4ca6-433a-ac4c-6088e55cd73b",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 28,
+    "Mileage": 318609.41
+  },
+  {
+    "Id": "bb31034e-6900-4c02-9987-0ab02fdf04b4",
+    "Model": "MAN",
+    "Capacity": 42,
+    "Mileage": 246558.16
+  },
+  {
+    "Id": "d9eb17ec-3dd9-4f81-ae13-15a90f290710",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 25,
+    "Mileage": 141860.55
+  },
+  {
+    "Id": "b1f986a9-427c-4fee-90fa-d246b830b1ba",
+    "Model": "Scania",
+    "Capacity": 50,
+    "Mileage": 358768.39
+  },
+  {
+    "Id": "beebfee3-fca8-4663-9038-56055168a74c",
+    "Model": "Scania",
+    "Capacity": 45,
+    "Mileage": 151551.93
+  },
+  {
+    "Id": "0ebaca40-d9c1-4717-bc3d-aaaa5370d548",
+    "Model": "Volvo",
+    "Capacity": 38,
+    "Mileage": 202090.31
+  },
+  {
+    "Id": "0f4a2580-514a-493e-ae88-50922f2c1159",
+    "Model": "Ikarus",
+    "Capacity": 48,
+    "Mileage": 376975.83
+  },
+  {
+    "Id": "7f4a11cb-bba1-4cf4-a51c-8640560bb0d6",
+    "Model": "Scania",
+    "Capacity": 62,
+    "Mileage": 120350.47
+  },
+  {
+    "Id": "826cf9a9-210f-4464-a3ae-05e5e2fbb53c",
+    "Model": "MAN",
+    "Capacity": 27,
+    "Mileage": 309465.80
+  },
+  {
+    "Id": "0cc87d04-e2bb-443b-a721-6688d1a79cef",
+    "Model": "MAN",
+    "Capacity": 52,
+    "Mileage": 121453.59
+  },
+  {
+    "Id": "27327fba-8c94-430e-80ef-0fb849286a11",
+    "Model": "Ikarus",
+    "Capacity": 57,
+    "Mileage": 55311.29
+  },
+  {
+    "Id": "93c1d652-aed7-4896-9c4a-7e802600a9e8",
+    "Model": "Volvo",
+    "Capacity": 24,
+    "Mileage": 98790.74
+  },
+  {
+    "Id": "b2319aa7-1d1f-4e0b-a96c-193c733e4ece",
+    "Model": "Ikarus",
+    "Capacity": 19,
+    "Mileage": 133995.68
+  },
+  {
+    "Id": "a4e23455-3186-4c81-b38c-733beaa2c06b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 34,
+    "Mileage": 13000.17
+  },
+  {
+    "Id": "4acd0365-60a2-4a82-986a-f9de6c09e0d6",
+    "Model": "Ikarus",
+    "Capacity": 24,
+    "Mileage": 11821.88
+  },
+  {
+    "Id": "de26f1f9-1215-4e1d-9f4a-0c7380208ad6",
+    "Model": "Volvo",
+    "Capacity": 24,
+    "Mileage": 101382.59
+  },
+  {
+    "Id": "a9ef6199-6b14-4234-baf3-d941e3f96c4e",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 39,
+    "Mileage": 322710.51
+  },
+  {
+    "Id": "4246606f-d7ab-4990-abb1-583d290804d7",
+    "Model": "Ikarus",
+    "Capacity": 30,
+    "Mileage": 156387.48
+  },
+  {
+    "Id": "32e10e7b-c51e-43f7-b65c-7aeffe65de50",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 48,
+    "Mileage": 399741.58
+  },
+  {
+    "Id": "e69e8e30-aeb3-476e-ae9a-944780d7b02b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 23,
+    "Mileage": 196443.00
+  },
+  {
+    "Id": "5f4d49f5-154c-4ccd-b05c-bbea3e846011",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 57,
+    "Mileage": 372244.97
+  },
+  {
+    "Id": "65462a22-b972-4f58-b3a6-65f4df2e4279",
+    "Model": "Scania",
+    "Capacity": 46,
+    "Mileage": 2686.62
+  },
+  {
+    "Id": "731207e7-bc5b-42eb-b953-b26878127229",
+    "Model": "Scania",
+    "Capacity": 31,
+    "Mileage": 75300.72
+  },
+  {
+    "Id": "ef982bd4-9096-4c69-a94a-e6da225869ab",
+    "Model": "Volvo",
+    "Capacity": 28,
+    "Mileage": 29706.50
+  },
+  {
+    "Id": "3d958518-dcc9-4237-91ec-158196b17b76",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 21,
+    "Mileage": 294573.33
+  },
+  {
+    "Id": "bb61ab80-de62-420d-b4d3-260b16347738",
+    "Model": "Volvo",
+    "Capacity": 25,
+    "Mileage": 214014.67
+  },
+  {
+    "Id": "3821243d-d0e4-4c8c-a0b9-18289db03191",
+    "Model": "Volvo",
+    "Capacity": 40,
+    "Mileage": 373571.42
+  },
+  {
+    "Id": "829b4e14-ac05-4499-8b1b-8f33a37ce28d",
+    "Model": "MAN",
+    "Capacity": 42,
+    "Mileage": 96477.24
+  },
+  {
+    "Id": "05b59ed3-5a9e-459a-b5b3-1e0c8eb6dea9",
+    "Model": "Mercedes-Benz",
+    "Capacity": 45,
+    "Mileage": 163353.78
+  },
+  {
+    "Id": "bd53ace3-058f-43f8-8b28-83596ec0e252",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 44,
+    "Mileage": 76942.58
+  },
+  {
+    "Id": "d7016ac7-3201-4ef1-ab03-22f3cb650822",
+    "Model": "Volvo",
+    "Capacity": 55,
+    "Mileage": 136162.97
+  },
+  {
+    "Id": "a5153a5a-33a7-42bd-ac36-f584407426d4",
+    "Model": "Ikarus",
+    "Capacity": 47,
+    "Mileage": 109026.41
+  },
+  {
+    "Id": "07617cf7-e4bc-4a0f-b02c-c06029f09251",
+    "Model": "Mercedes-Benz",
+    "Capacity": 61,
+    "Mileage": 258666.72
+  },
+  {
+    "Id": "8ada2f97-0a23-486f-9d9a-97c1d4ceb89e",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 42,
+    "Mileage": 374985.30
+  },
+  {
+    "Id": "b81b7d08-e4d1-4ef0-a6f6-45bd19d92d9a",
+    "Model": "Mercedes-Benz",
+    "Capacity": 31,
+    "Mileage": 214226.36
+  },
+  {
+    "Id": "b4ea820e-7127-4d8e-9d6f-fcf79230711f",
+    "Model": "MAN",
+    "Capacity": 22,
+    "Mileage": 63925.17
+  },
+  {
+    "Id": "4020a109-66e6-4473-8f0c-1d7e51f00880",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 346275.87
+  },
+  {
+    "Id": "df1cd7b2-3b7a-4d3d-9695-9922418701c1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 53,
+    "Mileage": 328349.74
+  },
+  {
+    "Id": "b6dcb66b-85f0-4753-83dc-f08a50d4bbba",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 56,
+    "Mileage": 167146.60
+  },
+  {
+    "Id": "6c764b9f-5187-4711-ad12-19de882d74de",
+    "Model": "Ikarus",
+    "Capacity": 63,
+    "Mileage": 85184.16
+  },
+  {
+    "Id": "b2c02628-fa1b-4cfb-99d4-e448fef65c2b",
+    "Model": "Scania",
+    "Capacity": 29,
+    "Mileage": 139019.95
+  },
+  {
+    "Id": "c8f953e6-ecb0-4bcb-9e1e-9050d082640d",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 42,
+    "Mileage": 215841.27
+  },
+  {
+    "Id": "5fcb04fb-bf65-45dc-a0e4-a97c565fffcc",
+    "Model": "Ikarus",
+    "Capacity": 59,
+    "Mileage": 61275.90
+  },
+  {
+    "Id": "752f73cc-3108-47fa-9154-5a42282a7af0",
+    "Model": "Ikarus",
+    "Capacity": 34,
+    "Mileage": 220224.12
+  },
+  {
+    "Id": "922e6a36-553a-436a-85c7-10f7f7089b94",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 28,
+    "Mileage": 283832.85
+  },
+  {
+    "Id": "0d688539-6d74-452a-b429-d83bdd67d5fb",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 25,
+    "Mileage": 346674.01
+  },
+  {
+    "Id": "0a7fe5be-6ae3-4726-86cb-e1879b12ad9a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 45,
+    "Mileage": 204155.48
+  },
+  {
+    "Id": "b399dc1a-1dce-4c09-9ed2-1771b8f11496",
+    "Model": "Volvo",
+    "Capacity": 28,
+    "Mileage": 128541.09
+  },
+  {
+    "Id": "8e00feb8-1270-43d5-a568-645b8839857e",
+    "Model": "Scania",
+    "Capacity": 55,
+    "Mileage": 129996.66
+  },
+  {
+    "Id": "16064303-efaf-4b83-a566-180d49399c73",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 64,
+    "Mileage": 194049.54
+  },
+  {
+    "Id": "b732e8a5-940c-4d67-b3ea-1d01f7d2a64a",
+    "Model": "Ikarus",
+    "Capacity": 39,
+    "Mileage": 91275.75
+  },
+  {
+    "Id": "1c461d55-fdeb-491a-9187-ec813a37601b",
+    "Model": "MAN",
+    "Capacity": 27,
+    "Mileage": 102100.49
+  },
+  {
+    "Id": "617a3414-4f75-442d-b339-6b98d8679196",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 18,
+    "Mileage": 178131.22
+  },
+  {
+    "Id": "acf4b811-eed0-4323-947a-7d73f63f0340",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 47,
+    "Mileage": 248108.73
+  },
+  {
+    "Id": "75865a86-8126-4a5f-9406-a3e7d3e2a8e3",
+    "Model": "Scania",
+    "Capacity": 35,
+    "Mileage": 329527.34
+  },
+  {
+    "Id": "02af19e0-7c71-4bdc-abb3-d7414e67e0fd",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 38,
+    "Mileage": 264539.40
+  },
+  {
+    "Id": "08691f10-4de2-4451-bb89-ef744a63acc4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 40,
+    "Mileage": 340085.68
+  },
+  {
+    "Id": "32ec42cd-83fc-4c20-a748-c04ad25bb891",
+    "Model": "Volvo",
+    "Capacity": 63,
+    "Mileage": 5855.86
+  },
+  {
+    "Id": "878e6d08-a5d5-4a53-b2f6-7604efe6b978",
+    "Model": "Ikarus",
+    "Capacity": 47,
+    "Mileage": 241541.33
+  },
+  {
+    "Id": "5fce0195-0584-4073-88b5-0fa67aa8ed74",
+    "Model": "Volvo",
+    "Capacity": 49,
+    "Mileage": 37639.81
+  },
+  {
+    "Id": "d05741ce-bba5-4858-904e-a2bf6ea86213",
+    "Model": "MAN",
+    "Capacity": 64,
+    "Mileage": 14506.63
+  },
+  {
+    "Id": "b6bca502-10a2-4833-a1b0-4525fc433487",
+    "Model": "Mercedes-Benz",
+    "Capacity": 46,
+    "Mileage": 260004.66
+  },
+  {
+    "Id": "9d752b42-04a0-490c-bb3e-c9b79be3f985",
+    "Model": "Mercedes-Benz",
+    "Capacity": 55,
+    "Mileage": 199373.72
+  },
+  {
+    "Id": "1fddd4f1-e626-4b1c-8d87-9c51063c45ae",
+    "Model": "MAN",
+    "Capacity": 39,
+    "Mileage": 1424.22
+  },
+  {
+    "Id": "410e387c-6acd-41d9-99e1-494bfc9842ac",
+    "Model": "MAN",
+    "Capacity": 46,
+    "Mileage": 291103.42
+  },
+  {
+    "Id": "46438f35-0bc1-4587-93df-ccf2f300599d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 34,
+    "Mileage": 379439.24
+  },
+  {
+    "Id": "e19df9ee-af8c-4c26-8f78-19a3cc5fb629",
+    "Model": "Ikarus",
+    "Capacity": 21,
+    "Mileage": 377632.01
+  },
+  {
+    "Id": "bac38561-1b65-440b-8bad-43959bef4392",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 27,
+    "Mileage": 57011.71
+  },
+  {
+    "Id": "2af947c5-00db-462b-afa9-35dee526dc10",
+    "Model": "Ikarus",
+    "Capacity": 55,
+    "Mileage": 263016.62
+  },
+  {
+    "Id": "423793dd-cfbc-4a39-b8e5-f4a568b23a05",
+    "Model": "Ikarus",
+    "Capacity": 48,
+    "Mileage": 270845.88
+  },
+  {
+    "Id": "c1485df4-1f10-4cab-a705-f191359d84ff",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 43,
+    "Mileage": 327899.03
+  },
+  {
+    "Id": "8e24905a-c438-46ad-8277-322f78581922",
+    "Model": "Volvo",
+    "Capacity": 40,
+    "Mileage": 279851.67
+  },
+  {
+    "Id": "03f1b11f-9c52-4a51-b104-7d068ab3bc5b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 57335.82
+  },
+  {
+    "Id": "c4fc2243-b073-4151-83c5-75cef3e0c281",
+    "Model": "Scania",
+    "Capacity": 20,
+    "Mileage": 207772.96
+  },
+  {
+    "Id": "d6aa130e-afe1-4b1e-8a33-2e9c0ac3483d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 45,
+    "Mileage": 186997.30
+  },
+  {
+    "Id": "d713dd6f-8b91-4726-90f8-710e77fefe9a",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 138283.33
+  },
+  {
+    "Id": "3dd471b9-1267-45cc-9aa7-7919050ab856",
+    "Model": "Mercedes-Benz",
+    "Capacity": 43,
+    "Mileage": 328040.60
+  },
+  {
+    "Id": "56ffeb6f-f7ee-4288-bd03-51059e0c8848",
+    "Model": "Mercedes-Benz",
+    "Capacity": 42,
+    "Mileage": 2666.68
+  },
+  {
+    "Id": "86ad5a80-05de-4da6-b9d9-a6a779d3be32",
+    "Model": "Volvo",
+    "Capacity": 52,
+    "Mileage": 295221.40
+  },
+  {
+    "Id": "ff46ead6-a521-4930-a617-01221f56a62c",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 24,
+    "Mileage": 308633.02
+  },
+  {
+    "Id": "47a326b8-4a89-4d12-8db4-360609ba62e9",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 47,
+    "Mileage": 219959.79
+  },
+  {
+    "Id": "79d55338-0b59-4399-8b06-3e30ef3b6a2b",
+    "Model": "Volvo",
+    "Capacity": 33,
+    "Mileage": 332739.33
+  },
+  {
+    "Id": "0296db25-b2da-484c-9dd7-b974d34f0c3a",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 54,
+    "Mileage": 54590.37
+  },
+  {
+    "Id": "1a93952b-8a71-4bfe-8ce4-dde1158d07db",
+    "Model": "MAN",
+    "Capacity": 19,
+    "Mileage": 316113.29
+  },
+  {
+    "Id": "caaae7ae-7284-47dd-8002-07f8d7f3f24c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 21,
+    "Mileage": 269629.46
+  },
+  {
+    "Id": "317af1f1-41c2-4520-941b-7862d2562662",
+    "Model": "Volvo",
+    "Capacity": 40,
+    "Mileage": 306151.76
+  },
+  {
+    "Id": "229ce79e-1db0-4840-8e4f-45a25c720043",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 203050.69
+  },
+  {
+    "Id": "554ae1df-29df-4a06-882c-d95d856d9c41",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 49,
+    "Mileage": 304773.74
+  },
+  {
+    "Id": "a58505df-72db-46ce-ad62-85444c23c9b1",
+    "Model": "Scania",
+    "Capacity": 58,
+    "Mileage": 5091.65
+  },
+  {
+    "Id": "07ee1dc6-e52c-4857-b950-1c01bd9a3038",
+    "Model": "Ikarus",
+    "Capacity": 26,
+    "Mileage": 116036.35
+  },
+  {
+    "Id": "5a4ec9cb-bb5b-4d57-af98-bd99efcccb45",
+    "Model": "Scania",
+    "Capacity": 25,
+    "Mileage": 353083.82
+  },
+  {
+    "Id": "0abfeaa5-f38c-481d-989a-aaba6b9a148b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 41,
+    "Mileage": 356725.63
+  },
+  {
+    "Id": "27ed3999-4b76-4aa2-aade-886792cf1691",
+    "Model": "Ikarus",
+    "Capacity": 51,
+    "Mileage": 88974.62
+  },
+  {
+    "Id": "793c00ce-42e6-45e7-8ee4-6bec3534db3e",
+    "Model": "MAN",
+    "Capacity": 33,
+    "Mileage": 274749.44
+  },
+  {
+    "Id": "91a143a6-978b-4a46-85a4-beb31bcf19ad",
+    "Model": "Ikarus",
+    "Capacity": 38,
+    "Mileage": 338274.29
+  },
+  {
+    "Id": "c6e7c3f8-cabd-4385-9131-4d52a89f261a",
+    "Model": "Ikarus",
+    "Capacity": 32,
+    "Mileage": 278065.09
+  },
+  {
+    "Id": "9243033c-4df7-4743-9056-51a6608d1f5f",
+    "Model": "Scania",
+    "Capacity": 51,
+    "Mileage": 166997.77
+  },
+  {
+    "Id": "fb103a43-55df-4db3-8218-8a280fbec8d0",
+    "Model": "Mercedes-Benz",
+    "Capacity": 31,
+    "Mileage": 106777.07
+  },
+  {
+    "Id": "4faab998-353d-4cb5-8526-cc41b6a34af1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 46,
+    "Mileage": 104155.35
+  },
+  {
+    "Id": "8b6e3257-7d24-47f4-98cc-c6de8f5d2a16",
+    "Model": "Volvo",
+    "Capacity": 23,
+    "Mileage": 111232.54
+  },
+  {
+    "Id": "35c84e00-e951-4384-8ecb-2fb27537f721",
+    "Model": "Mercedes-Benz",
+    "Capacity": 46,
+    "Mileage": 250778.63
+  },
+  {
+    "Id": "c2f3982c-2659-4372-a1db-2969c38fa007",
+    "Model": "Mercedes-Benz",
+    "Capacity": 53,
+    "Mileage": 343497.71
+  },
+  {
+    "Id": "92a62d2e-0f9d-4d77-a032-cbe71dd9b3d2",
+    "Model": "Scania",
+    "Capacity": 51,
+    "Mileage": 371868.33
+  },
+  {
+    "Id": "fc320e1e-c280-4804-a00c-237753219299",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 34,
+    "Mileage": 175156.37
+  },
+  {
+    "Id": "3171b341-1a17-485b-9ce4-56c16b6b20d8",
+    "Model": "Volvo",
+    "Capacity": 34,
+    "Mileage": 22819.28
+  },
+  {
+    "Id": "db136082-5c56-4e92-8f58-8c66f17456e2",
+    "Model": "Mercedes-Benz",
+    "Capacity": 52,
+    "Mileage": 292848.14
+  },
+  {
+    "Id": "dc94ea95-1211-46bd-8f2b-0a2006351685",
+    "Model": "Scania",
+    "Capacity": 42,
+    "Mileage": 379165.09
+  },
+  {
+    "Id": "f96ceda4-cde4-4ea7-b180-6a10d2df4899",
+    "Model": "Scania",
+    "Capacity": 41,
+    "Mileage": 13059.17
+  },
+  {
+    "Id": "1a10484f-0848-401a-8773-26ffa0cfd7be",
+    "Model": "Volvo",
+    "Capacity": 61,
+    "Mileage": 208342.05
+  },
+  {
+    "Id": "b18d32c2-9e38-40c0-8c8f-c4aeb4cb9793",
+    "Model": "MAN",
+    "Capacity": 48,
+    "Mileage": 99143.14
+  },
+  {
+    "Id": "5d28206b-4078-4974-b979-a68de06c6756",
+    "Model": "Volvo",
+    "Capacity": 54,
+    "Mileage": 97967.86
+  },
+  {
+    "Id": "cf383d1c-ff05-40ed-bd94-eb85be82f814",
+    "Model": "Volvo",
+    "Capacity": 62,
+    "Mileage": 52098.94
+  },
+  {
+    "Id": "2315f070-4dd7-4b63-923d-9c3819b54180",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 58,
+    "Mileage": 290505.00
+  },
+  {
+    "Id": "b6fe66e7-929a-4743-bcec-057ea01b23b2",
+    "Model": "Mercedes-Benz",
+    "Capacity": 61,
+    "Mileage": 205045.64
+  },
+  {
+    "Id": "a6427b88-c0f9-44f9-95d5-625388dc09db",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 28978.45
+  },
+  {
+    "Id": "bf448217-d409-4416-be20-b3b50b9ac1bb",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 58,
+    "Mileage": 186250.84
+  },
+  {
+    "Id": "35857669-2ac5-4129-92aa-2b6094a226df",
+    "Model": "Volvo",
+    "Capacity": 32,
+    "Mileage": 271471.16
+  },
+  {
+    "Id": "d61580ee-65ba-4858-8f85-765a890ad7b2",
+    "Model": "MAN",
+    "Capacity": 27,
+    "Mileage": 70553.01
+  },
+  {
+    "Id": "4617c447-d982-4b4d-9ff3-16e70396eccc",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 64,
+    "Mileage": 240628.88
+  },
+  {
+    "Id": "ff22f1d1-ab0c-4cda-b446-804b53d8dbc2",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 26,
+    "Mileage": 196297.07
+  },
+  {
+    "Id": "4c695af6-0bb1-447c-a39d-e84861840f3e",
+    "Model": "Mercedes-Benz",
+    "Capacity": 44,
+    "Mileage": 360119.99
+  },
+  {
+    "Id": "fb61c408-92ae-4faa-a437-9a8cada91a5f",
+    "Model": "Scania",
+    "Capacity": 19,
+    "Mileage": 214698.12
+  },
+  {
+    "Id": "d806a95f-697d-4435-bda4-05978ab21c12",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 24410.33
+  },
+  {
+    "Id": "3c4a7739-23c2-4534-b301-9e26f9067dad",
+    "Model": "Volvo",
+    "Capacity": 31,
+    "Mileage": 43250.65
+  },
+  {
+    "Id": "ed23312d-259c-4147-b83e-de971865ff0a",
+    "Model": "Scania",
+    "Capacity": 33,
+    "Mileage": 58347.95
+  },
+  {
+    "Id": "d38c86cd-b02d-4c67-ba94-d15d63406b0e",
+    "Model": "MAN",
+    "Capacity": 39,
+    "Mileage": 346034.73
+  },
+  {
+    "Id": "00f51676-b3b9-408a-9467-3879aeebe2ef",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 60685.85
+  },
+  {
+    "Id": "77490ce7-c455-4f0f-915b-4b99897d8c6b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 54,
+    "Mileage": 53200.28
+  },
+  {
+    "Id": "ccd1f88a-a1ed-4ef7-b2ea-a45aa545b79f",
+    "Model": "Ikarus",
+    "Capacity": 49,
+    "Mileage": 168478.98
+  },
+  {
+    "Id": "64e7c865-f833-457b-a7f1-d1cbaca48fa5",
+    "Model": "Ikarus",
+    "Capacity": 25,
+    "Mileage": 79799.73
+  },
+  {
+    "Id": "b4657638-b77d-4be0-a984-a88e6f462981",
+    "Model": "Volvo",
+    "Capacity": 59,
+    "Mileage": 227674.09
+  },
+  {
+    "Id": "878dd39d-9022-4927-864d-1dae392853db",
+    "Model": "Mercedes-Benz",
+    "Capacity": 37,
+    "Mileage": 240773.03
+  },
+  {
+    "Id": "4b0e0aad-d107-4670-85aa-46c47b3d080f",
+    "Model": "Scania",
+    "Capacity": 46,
+    "Mileage": 353202.69
+  },
+  {
+    "Id": "793b830d-0f8b-452f-a9fb-f9adeb54f050",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 47,
+    "Mileage": 9782.71
+  },
+  {
+    "Id": "856b794b-4d27-46f7-b9e0-449010e12266",
+    "Model": "Volvo",
+    "Capacity": 36,
+    "Mileage": 290353.26
+  },
+  {
+    "Id": "d41c7be8-d3c0-450c-8270-561b5070fa58",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 35,
+    "Mileage": 174953.71
+  },
+  {
+    "Id": "9ef320ca-78a0-4f44-9e1f-e6276b47ad49",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 367524.64
+  },
+  {
+    "Id": "7d424e16-7b43-4c80-a146-d98614763b0e",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 57,
+    "Mileage": 151846.96
+  },
+  {
+    "Id": "d03718a2-c4db-41ca-971a-e7da947db7c3",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 140820.50
+  },
+  {
+    "Id": "9b2db064-8146-453b-a314-9549dc893cf6",
+    "Model": "MAN",
+    "Capacity": 55,
+    "Mileage": 51967.21
+  },
+  {
+    "Id": "2ba44d17-f3c0-4041-8347-618b6458bd1f",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 28,
+    "Mileage": 394198.83
+  },
+  {
+    "Id": "36eaeef0-8c81-4bb4-b6dd-cfa40417eaec",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 27,
+    "Mileage": 175734.12
+  },
+  {
+    "Id": "daf5da11-3dda-410c-ba77-95c67b5896a3",
+    "Model": "Mercedes-Benz",
+    "Capacity": 58,
+    "Mileage": 274605.32
+  },
+  {
+    "Id": "e2dd7cd7-2670-4342-8e07-09e578f41797",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 52,
+    "Mileage": 336645.71
+  },
+  {
+    "Id": "badf998d-1fd3-41fd-8fc2-1141dd7cba76",
+    "Model": "Scania",
+    "Capacity": 29,
+    "Mileage": 50490.42
+  },
+  {
+    "Id": "66ee58bc-697a-45bb-b806-1da2ca590a06",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 224657.40
+  },
+  {
+    "Id": "96ef0ee5-b076-461f-ba65-87449b0018b4",
+    "Model": "MAN",
+    "Capacity": 36,
+    "Mileage": 136991.81
+  },
+  {
+    "Id": "6252acba-3fed-4a52-b45b-e4f54b5b6562",
+    "Model": "Ikarus",
+    "Capacity": 51,
+    "Mileage": 131821.69
+  },
+  {
+    "Id": "546b21bf-724c-4d8c-96f9-cf9def6b44f1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 47,
+    "Mileage": 202071.86
+  },
+  {
+    "Id": "0bd38d57-3874-4824-b112-f4acb5259240",
+    "Model": "Ikarus",
+    "Capacity": 18,
+    "Mileage": 135727.95
+  },
+  {
+    "Id": "cea2afb8-ce97-484b-8db3-aeb4e7edc493",
+    "Model": "Scania",
+    "Capacity": 28,
+    "Mileage": 25969.20
+  },
+  {
+    "Id": "1e065c98-e0b8-42e2-80ab-6d612cabef81",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 18,
+    "Mileage": 362882.72
+  },
+  {
+    "Id": "90a896f9-b35c-42db-a617-95f58e5b3bef",
+    "Model": "Scania",
+    "Capacity": 54,
+    "Mileage": 55520.32
+  },
+  {
+    "Id": "14c527e2-f2b2-4690-9c93-b668dd23fb08",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 165245.92
+  },
+  {
+    "Id": "fc87012b-ae75-40b1-9017-5ab7c4cac747",
+    "Model": "MAN",
+    "Capacity": 57,
+    "Mileage": 237518.68
+  },
+  {
+    "Id": "def40154-d2c9-4b32-90bd-04f8e218964f",
+    "Model": "Ikarus",
+    "Capacity": 27,
+    "Mileage": 351407.31
+  },
+  {
+    "Id": "c258318c-7c79-49b1-81c8-d4a47d945599",
+    "Model": "Volvo",
+    "Capacity": 22,
+    "Mileage": 383711.52
+  },
+  {
+    "Id": "0d8118bb-5324-4eab-b452-7255c79a1783",
+    "Model": "Scania",
+    "Capacity": 60,
+    "Mileage": 84689.92
+  },
+  {
+    "Id": "077e93a1-ebd3-4b80-9811-25f81ba48985",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 31,
+    "Mileage": 270557.81
+  },
+  {
+    "Id": "c48762f9-5965-481e-b542-be56d222d045",
+    "Model": "Ikarus",
+    "Capacity": 38,
+    "Mileage": 389540.43
+  },
+  {
+    "Id": "8b902d2e-a9b6-4dc3-abd1-35109e0c3ee0",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 376143.13
+  },
+  {
+    "Id": "4e588401-438b-4c67-806c-b2e032dcf252",
+    "Model": "Mercedes-Benz",
+    "Capacity": 46,
+    "Mileage": 382039.65
+  },
+  {
+    "Id": "e44b6293-60a6-461b-9c66-ae3e694665ee",
+    "Model": "Volvo",
+    "Capacity": 20,
+    "Mileage": 358745.81
+  },
+  {
+    "Id": "b52328d5-fa18-4aaa-9354-7ed1cf4e859a",
+    "Model": "MAN",
+    "Capacity": 38,
+    "Mileage": 296185.06
+  },
+  {
+    "Id": "2cbb9706-1be6-4fec-a562-8f7c2deb6fed",
+    "Model": "MAN",
+    "Capacity": 41,
+    "Mileage": 17328.71
+  },
+  {
+    "Id": "00b11023-7c86-4fab-923d-e854ba4b9a95",
+    "Model": "MAN",
+    "Capacity": 47,
+    "Mileage": 95533.91
+  },
+  {
+    "Id": "ad20198d-82d2-4257-91bb-bd7fda948e5d",
+    "Model": "Scania",
+    "Capacity": 42,
+    "Mileage": 147677.25
+  },
+  {
+    "Id": "c21cb002-adb7-4952-a91a-3065f48bb105",
+    "Model": "Scania",
+    "Capacity": 63,
+    "Mileage": 376299.21
+  },
+  {
+    "Id": "c079423d-ce36-4037-a6b2-01d55647ccdb",
+    "Model": "Mercedes-Benz",
+    "Capacity": 31,
+    "Mileage": 339877.65
+  },
+  {
+    "Id": "d9d074ee-0690-4431-8796-24bf85c60eac",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 56,
+    "Mileage": 372195.13
+  },
+  {
+    "Id": "1f79ffa0-a2cf-4c6a-b626-13e0f8904642",
+    "Model": "Ikarus",
+    "Capacity": 32,
+    "Mileage": 273292.33
+  },
+  {
+    "Id": "71025d74-3ccc-430f-9a16-eabe48db6e80",
+    "Model": "Scania",
+    "Capacity": 41,
+    "Mileage": 211159.83
+  },
+  {
+    "Id": "4e881f8f-bb07-4102-bfc1-d72af9a22208",
+    "Model": "MAN",
+    "Capacity": 18,
+    "Mileage": 219424.99
+  },
+  {
+    "Id": "54af5d86-349e-47bf-8ad3-11d6a6681e60",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 47,
+    "Mileage": 6942.88
+  },
+  {
+    "Id": "4df19ad5-d6d6-4676-b272-a97a1fe7673b",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 51,
+    "Mileage": 83614.21
+  },
+  {
+    "Id": "eacf1588-932b-4a0a-80e3-82c416dc136b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 34,
+    "Mileage": 86915.92
+  },
+  {
+    "Id": "120731e1-a09f-4f7a-b27d-0fe673bd037f",
+    "Model": "Mercedes-Benz",
+    "Capacity": 55,
+    "Mileage": 182733.55
+  },
+  {
+    "Id": "c96d824b-0493-45c6-9f6b-74abedfc9324",
+    "Model": "MAN",
+    "Capacity": 23,
+    "Mileage": 24938.17
+  },
+  {
+    "Id": "99eed4f9-2418-4c6d-b668-f2023c1f5ea2",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 57,
+    "Mileage": 50674.38
+  },
+  {
+    "Id": "8dd0529a-efcd-4799-b764-721cf39c41d5",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 61,
+    "Mileage": 29004.87
+  },
+  {
+    "Id": "21123b89-6a28-482c-bee5-27771a4a09e4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 24,
+    "Mileage": 36186.17
+  },
+  {
+    "Id": "b957be80-d095-4c80-a398-a4f6a789cb30",
+    "Model": "MAN",
+    "Capacity": 49,
+    "Mileage": 254645.42
+  },
+  {
+    "Id": "86e8f727-3a54-44d3-8cea-6e0ae552f0d5",
+    "Model": "Scania",
+    "Capacity": 45,
+    "Mileage": 33770.52
+  },
+  {
+    "Id": "c0359841-1f5f-4b19-8ad1-c6ab65e2c078",
+    "Model": "Ikarus",
+    "Capacity": 40,
+    "Mileage": 23600.01
+  },
+  {
+    "Id": "b4cc2567-ec72-43d2-a2f1-7557c3e97e55",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 276527.59
+  },
+  {
+    "Id": "907bb094-fed9-4540-b45b-5363cb6732b0",
+    "Model": "Volvo",
+    "Capacity": 35,
+    "Mileage": 390750.34
+  },
+  {
+    "Id": "a00ad62b-e77e-48ee-9768-2fcf350c4a3d",
+    "Model": "Scania",
+    "Capacity": 41,
+    "Mileage": 54585.26
+  },
+  {
+    "Id": "c2146ac7-c586-4d59-b0f8-cfb37e9eefc5",
+    "Model": "Volvo",
+    "Capacity": 48,
+    "Mileage": 335956.47
+  },
+  {
+    "Id": "f30f414f-b2ac-4881-9b0c-028cc4ce82fa",
+    "Model": "Scania",
+    "Capacity": 43,
+    "Mileage": 285459.45
+  },
+  {
+    "Id": "5c4236aa-b3ca-4ebb-b7b6-9ac2a2099033",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 23,
+    "Mileage": 139426.83
+  },
+  {
+    "Id": "c5f1efeb-97ac-4c00-aa64-e133467410ca",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 51,
+    "Mileage": 25770.31
+  },
+  {
+    "Id": "8bff37c0-2aaa-40f1-83e5-e26aad87452c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 21,
+    "Mileage": 351477.25
+  },
+  {
+    "Id": "9cbe4f26-191c-43e7-8d61-665f955c80a8",
+    "Model": "Scania",
+    "Capacity": 29,
+    "Mileage": 165093.53
+  },
+  {
+    "Id": "26296851-ad9e-465c-a17f-ff6c9dd8eebf",
+    "Model": "MAN",
+    "Capacity": 48,
+    "Mileage": 72129.61
+  },
+  {
+    "Id": "33b0df3e-0482-4639-a22a-5381f4734f20",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 85306.17
+  },
+  {
+    "Id": "22f7f30c-1887-4519-9de8-06d95f841049",
+    "Model": "Volvo",
+    "Capacity": 56,
+    "Mileage": 142602.22
+  },
+  {
+    "Id": "bc302d4d-820d-4d81-8008-5c1f9b93e9d0",
+    "Model": "Mercedes-Benz",
+    "Capacity": 31,
+    "Mileage": 382616.06
+  },
+  {
+    "Id": "23ac2ca3-e763-4f3f-a975-6e22f30600fd",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 46,
+    "Mileage": 333479.60
+  },
+  {
+    "Id": "00f0ba90-c0a0-4908-839e-35e93fe040e0",
+    "Model": "Volvo",
+    "Capacity": 19,
+    "Mileage": 19124.44
+  },
+  {
+    "Id": "1ae3196b-f8a7-40ae-aaea-0a0b393210f6",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 373785.07
+  },
+  {
+    "Id": "3ec748a3-25c5-4d65-ae46-345be0349d35",
+    "Model": "Ikarus",
+    "Capacity": 20,
+    "Mileage": 275057.62
+  },
+  {
+    "Id": "982310c6-fe28-4f72-9f6e-8652b820d327",
+    "Model": "Ikarus",
+    "Capacity": 39,
+    "Mileage": 222853.93
+  },
+  {
+    "Id": "40ea2224-c9ec-40ae-9e9d-f902fe8d5859",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 63,
+    "Mileage": 197363.61
+  },
+  {
+    "Id": "3e54baef-beb6-49a9-af86-bc3a5b283104",
+    "Model": "Volvo",
+    "Capacity": 63,
+    "Mileage": 51748.07
+  },
+  {
+    "Id": "0addf2e3-ee21-4c05-b328-4ea467db8ee8",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 61,
+    "Mileage": 115031.93
+  },
+  {
+    "Id": "3122df3e-5be3-4f03-97a9-08666df0e294",
+    "Model": "Mercedes-Benz",
+    "Capacity": 53,
+    "Mileage": 266203.06
+  },
+  {
+    "Id": "fb62c9e3-5428-4ea6-881b-5ff7bb84ecc1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 29,
+    "Mileage": 393927.87
+  },
+  {
+    "Id": "0a1a2085-433d-425c-b237-aa31ffba50f9",
+    "Model": "Mercedes-Benz",
+    "Capacity": 49,
+    "Mileage": 137703.74
+  },
+  {
+    "Id": "70a1d9cf-f987-433e-af53-a62a79e9ba89",
+    "Model": "Mercedes-Benz",
+    "Capacity": 29,
+    "Mileage": 178075.66
+  },
+  {
+    "Id": "7717b517-4da7-486e-9255-56a66d1c4d35",
+    "Model": "Volvo",
+    "Capacity": 26,
+    "Mileage": 291010.11
+  },
+  {
+    "Id": "b12ba4c6-cf22-4b60-801b-626f17b78c78",
+    "Model": "Mercedes-Benz",
+    "Capacity": 35,
+    "Mileage": 198798.56
+  },
+  {
+    "Id": "ed48d876-24b5-4976-94f2-901f580e9ce4",
+    "Model": "Mercedes-Benz",
+    "Capacity": 56,
+    "Mileage": 75792.03
+  },
+  {
+    "Id": "a78364cb-28ba-4551-90f1-bea6afbc2f0f",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 45,
+    "Mileage": 173039.64
+  },
+  {
+    "Id": "1372c72b-d4dc-4888-8586-d9deaf1d2bca",
+    "Model": "Ikarus",
+    "Capacity": 20,
+    "Mileage": 274931.05
+  },
+  {
+    "Id": "2c847ebe-8570-4e1d-b567-694a4ece139b",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 187666.93
+  },
+  {
+    "Id": "8182e970-a89d-4be7-b919-0359c5637fde",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 22,
+    "Mileage": 207766.80
+  },
+  {
+    "Id": "d5c45e74-f062-4dd4-bc92-9f13f304d4ac",
+    "Model": "Mercedes-Benz",
+    "Capacity": 31,
+    "Mileage": 393161.51
+  },
+  {
+    "Id": "3bfc463c-d757-4291-848e-17b276a3521d",
+    "Model": "Scania",
+    "Capacity": 22,
+    "Mileage": 227981.88
+  },
+  {
+    "Id": "4828d725-203b-4672-b6a6-78f18536233a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 46,
+    "Mileage": 247249.16
+  },
+  {
+    "Id": "6f14703f-47b4-4dcc-a06f-a1d801bde049",
+    "Model": "Volvo",
+    "Capacity": 23,
+    "Mileage": 229932.12
+  },
+  {
+    "Id": "c5ea9ffc-5f3a-440b-ac82-3c62a5728162",
+    "Model": "Scania",
+    "Capacity": 32,
+    "Mileage": 330663.56
+  },
+  {
+    "Id": "a2a0907d-db46-4b48-b541-211b50c13c8a",
+    "Model": "Mercedes-Benz",
+    "Capacity": 45,
+    "Mileage": 182460.81
+  },
+  {
+    "Id": "bf9d5b67-2e5d-4561-aaf7-de78449e2483",
+    "Model": "Scania",
+    "Capacity": 45,
+    "Mileage": 122444.67
+  },
+  {
+    "Id": "9a792966-b677-4bf2-b8f6-99243c6c0ad3",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 29,
+    "Mileage": 162634.28
+  },
+  {
+    "Id": "2dd56a20-9667-4fe2-b7ab-acddb69e9ad1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 54,
+    "Mileage": 350011.68
+  },
+  {
+    "Id": "b7c717bc-7c64-4276-83c7-6f9e0e853c24",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 53,
+    "Mileage": 80314.73
+  },
+  {
+    "Id": "19934998-541b-4d16-997d-6c3a8cca57e7",
+    "Model": "Volvo",
+    "Capacity": 44,
+    "Mileage": 136371.69
+  },
+  {
+    "Id": "9e5de5cc-e2ca-4b8d-8117-1b8a7b146457",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 31,
+    "Mileage": 116021.97
+  },
+  {
+    "Id": "44cbcf35-8b08-451a-a1e5-22540ad24fe9",
+    "Model": "Ikarus",
+    "Capacity": 39,
+    "Mileage": 257958.53
+  },
+  {
+    "Id": "7e7e29b4-05fd-430f-84e6-fea08c6c4ece",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 53,
+    "Mileage": 375800.12
+  },
+  {
+    "Id": "f8a69d9a-1995-4c22-a6b6-576b6ffa1919",
+    "Model": "MAN",
+    "Capacity": 18,
+    "Mileage": 114663.85
+  },
+  {
+    "Id": "27fb1729-c3fc-4c8d-adc9-066b8db2c3a4",
+    "Model": "Ikarus",
+    "Capacity": 24,
+    "Mileage": 203094.91
+  },
+  {
+    "Id": "d349a6f9-208d-4fce-be53-fc23d56f099d",
+    "Model": "Ikarus",
+    "Capacity": 30,
+    "Mileage": 348858.02
+  },
+  {
+    "Id": "702a7e96-4c81-47de-bb5a-7ce787fa23f7",
+    "Model": "Mercedes-Benz",
+    "Capacity": 34,
+    "Mileage": 215344.86
+  },
+  {
+    "Id": "facefb40-c9af-4497-bc2c-213732352c80",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 52,
+    "Mileage": 212379.62
+  },
+  {
+    "Id": "2153c94e-9160-428c-89a3-9ad87fa58631",
+    "Model": "Scania",
+    "Capacity": 50,
+    "Mileage": 281620.34
+  },
+  {
+    "Id": "4cf0b1f2-d147-49c4-a682-780c2c7b5206",
+    "Model": "MAN",
+    "Capacity": 45,
+    "Mileage": 90976.80
+  },
+  {
+    "Id": "77f57426-4783-4fee-877f-7c31010ba0b1",
+    "Model": "Scania",
+    "Capacity": 54,
+    "Mileage": 107047.88
+  },
+  {
+    "Id": "587c5d6c-8822-4028-a0d7-61657d25ffd6",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 25,
+    "Mileage": 11570.10
+  },
+  {
+    "Id": "26515cd4-292a-4092-a4c0-a9fe2e1c6b9c",
+    "Model": "Scania",
+    "Capacity": 62,
+    "Mileage": 322693.61
+  },
+  {
+    "Id": "3748313d-a08a-4d3b-8cad-8c8dfea46d50",
+    "Model": "MAN",
+    "Capacity": 28,
+    "Mileage": 46474.24
+  },
+  {
+    "Id": "93c186af-90e9-401f-a193-87ad163bfca9",
+    "Model": "Ikarus",
+    "Capacity": 37,
+    "Mileage": 369489.21
+  },
+  {
+    "Id": "f412ee1a-a00f-4e13-9a62-8e78d2d947f6",
+    "Model": "Volvo",
+    "Capacity": 26,
+    "Mileage": 325457.88
+  },
+  {
+    "Id": "562f5f31-fe3f-4c42-9e67-02cefc29e010",
+    "Model": "Scania",
+    "Capacity": 19,
+    "Mileage": 170120.71
+  },
+  {
+    "Id": "d490d1d0-21a7-4e0c-8457-5925e858ad55",
+    "Model": "Mercedes-Benz",
+    "Capacity": 41,
+    "Mileage": 354483.05
+  },
+  {
+    "Id": "4ffcd69a-ef4e-4570-b1d2-e866488c3a1c",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 21,
+    "Mileage": 201271.20
+  },
+  {
+    "Id": "6beea86f-672d-4d4a-8ec8-249e9e57991a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 53,
+    "Mileage": 77040.19
+  },
+  {
+    "Id": "7a1be70a-f0df-4ba4-8244-717314eaf2a4",
+    "Model": "MAN",
+    "Capacity": 44,
+    "Mileage": 91016.65
+  },
+  {
+    "Id": "10a5510c-7629-4ac8-99aa-bd7313826f64",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 37,
+    "Mileage": 199601.97
+  },
+  {
+    "Id": "a77c3331-75be-44c0-b7bb-4e5092316871",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 53,
+    "Mileage": 84818.45
+  },
+  {
+    "Id": "8a78ecbd-216a-4f32-a751-b56be95018c3",
+    "Model": "MAN",
+    "Capacity": 38,
+    "Mileage": 104986.34
+  },
+  {
+    "Id": "cff6be5e-5809-4d0a-8489-2f3bd8c343d4",
+    "Model": "MAN",
+    "Capacity": 52,
+    "Mileage": 385032.76
+  },
+  {
+    "Id": "faf80c4d-00bc-4a59-95bb-0651164f493e",
+    "Model": "Mercedes-Benz",
+    "Capacity": 30,
+    "Mileage": 20588.98
+  },
+  {
+    "Id": "5fe6d9bd-123a-4d53-84cf-5a50bbf7b49c",
+    "Model": "Volvo",
+    "Capacity": 58,
+    "Mileage": 338467.86
+  },
+  {
+    "Id": "603f5a2b-d79f-4317-a5d2-67cef506d33c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 30,
+    "Mileage": 226115.46
+  },
+  {
+    "Id": "07039103-7f03-417e-8e29-433e73f9bbc3",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 27,
+    "Mileage": 259807.55
+  },
+  {
+    "Id": "c6592e64-9487-4656-bcc0-333cb5da8689",
+    "Model": "Scania",
+    "Capacity": 19,
+    "Mileage": 81915.01
+  },
+  {
+    "Id": "e55820a4-291b-40c6-9b3f-f5af7dbd1353",
+    "Model": "MAN",
+    "Capacity": 19,
+    "Mileage": 227573.61
+  },
+  {
+    "Id": "2ace084f-c804-4dfe-ad97-eabe7500752d",
+    "Model": "MAN",
+    "Capacity": 50,
+    "Mileage": 268353.86
+  },
+  {
+    "Id": "84bad083-6a15-4f78-9ef8-8b6016786639",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 171047.93
+  },
+  {
+    "Id": "0bfdb62a-794f-45ee-8927-8df3819b2ff7",
+    "Model": "Mercedes-Benz",
+    "Capacity": 58,
+    "Mileage": 233631.93
+  },
+  {
+    "Id": "40d7765d-ab09-4fbf-bf8d-1fde8ce5195a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 27,
+    "Mileage": 303877.36
+  },
+  {
+    "Id": "aae2fecb-5d3e-4d2c-b7cc-0c1deba6a8cd",
+    "Model": "Volvo",
+    "Capacity": 20,
+    "Mileage": 377280.27
+  },
+  {
+    "Id": "c0770d83-b594-424a-ad87-5b9732838b73",
+    "Model": "MAN",
+    "Capacity": 62,
+    "Mileage": 84968.62
+  },
+  {
+    "Id": "95792607-42db-4668-acbc-bf0ce44b519c",
+    "Model": "Ikarus",
+    "Capacity": 19,
+    "Mileage": 399280.84
+  },
+  {
+    "Id": "2180bdea-bb38-42bf-931b-b9947591d1b2",
+    "Model": "Ikarus",
+    "Capacity": 34,
+    "Mileage": 155352.82
+  },
+  {
+    "Id": "07c47a54-0b21-4c8c-8ac2-654e823764ca",
+    "Model": "Ikarus",
+    "Capacity": 31,
+    "Mileage": 21145.85
+  },
+  {
+    "Id": "d8ce3647-a8e9-4d09-ada9-5a9d6115df15",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 34,
+    "Mileage": 314593.48
+  },
+  {
+    "Id": "546503c7-c7cd-423e-a10a-86cc4a6af353",
+    "Model": "MAN",
+    "Capacity": 33,
+    "Mileage": 146177.79
+  },
+  {
+    "Id": "cd12fac6-f817-4ce6-8f5f-c2e98dd2db64",
+    "Model": "Mercedes-Benz",
+    "Capacity": 21,
+    "Mileage": 201727.20
+  },
+  {
+    "Id": "2133dba5-a87a-4f03-a728-c5fe5a457770",
+    "Model": "Mercedes-Benz",
+    "Capacity": 49,
+    "Mileage": 386812.14
+  },
+  {
+    "Id": "12511109-2663-475a-ba2a-ee9abdfad72b",
+    "Model": "Volvo",
+    "Capacity": 35,
+    "Mileage": 34190.72
+  },
+  {
+    "Id": "91309069-a8fb-47fa-b508-44e526ee032c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 38,
+    "Mileage": 147559.38
+  },
+  {
+    "Id": "c61c124d-4b5a-4d7e-8dfe-adf70ef69f88",
+    "Model": "Ikarus",
+    "Capacity": 49,
+    "Mileage": 389936.04
+  },
+  {
+    "Id": "811af75d-bc64-4657-bf23-89018e3c2efd",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 26,
+    "Mileage": 208455.47
+  },
+  {
+    "Id": "cc0093de-53ed-4e5e-92be-14304b504996",
+    "Model": "Scania",
+    "Capacity": 42,
+    "Mileage": 92124.29
+  },
+  {
+    "Id": "daed35dd-dd04-4110-87a5-145089a6dca6",
+    "Model": "Scania",
+    "Capacity": 42,
+    "Mileage": 72276.92
+  },
+  {
+    "Id": "c250f2ef-71a9-4d72-9a38-faa9109911f2",
+    "Model": "Volvo",
+    "Capacity": 34,
+    "Mileage": 59808.10
+  },
+  {
+    "Id": "ae3a5c2c-1a86-4c7b-9491-172c64f39fba",
+    "Model": "Scania",
+    "Capacity": 47,
+    "Mileage": 220517.86
+  },
+  {
+    "Id": "a5cb6d2f-0730-47ce-9cf2-1a95eccc875d",
+    "Model": "Mercedes-Benz",
+    "Capacity": 63,
+    "Mileage": 381170.65
+  },
+  {
+    "Id": "3ce4f5fa-8845-4970-a648-381f52bae7e2",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 37,
+    "Mileage": 61845.31
+  },
+  {
+    "Id": "a1c53759-16b6-497c-ae2f-ddf084fe5b8f",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 22,
+    "Mileage": 253441.08
+  },
+  {
+    "Id": "1e88e718-7471-4898-97b9-d03c289aadff",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 25,
+    "Mileage": 351108.65
+  },
+  {
+    "Id": "2e4479c2-a51d-4386-8957-57235bb4fa09",
+    "Model": "Ikarus",
+    "Capacity": 45,
+    "Mileage": 262312.50
+  },
+  {
+    "Id": "a9b446b9-9a62-4321-9598-f2ca74b2221f",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 21,
+    "Mileage": 361379.03
+  },
+  {
+    "Id": "dec0383f-9117-47ad-b0bd-e99f6e689304",
+    "Model": "Scania",
+    "Capacity": 41,
+    "Mileage": 13979.55
+  },
+  {
+    "Id": "e934aded-05e8-4e69-863c-37313322b53a",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 48,
+    "Mileage": 61558.07
+  },
+  {
+    "Id": "07dfd2f0-9b0a-4adb-ad25-b311c744b0f7",
+    "Model": "Volvo",
+    "Capacity": 45,
+    "Mileage": 320196.84
+  },
+  {
+    "Id": "690b65fb-a3ab-484b-b663-492f5632c86f",
+    "Model": "Scania",
+    "Capacity": 35,
+    "Mileage": 288886.11
+  },
+  {
+    "Id": "190a2713-bcee-41a8-b37b-bc393421aa25",
+    "Model": "Scania",
+    "Capacity": 50,
+    "Mileage": 318394.00
+  },
+  {
+    "Id": "bd4f7fec-6593-47d5-a5d3-6c218486e0cb",
+    "Model": "MAN",
+    "Capacity": 38,
+    "Mileage": 268005.46
+  },
+  {
+    "Id": "a9a53717-9d31-4153-9a4d-b1ecf7f5cdd1",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 36,
+    "Mileage": 254837.56
+  },
+  {
+    "Id": "f11fa591-1b9f-4108-8e00-2eaa6367d835",
+    "Model": "MAN",
+    "Capacity": 28,
+    "Mileage": 317653.87
+  },
+  {
+    "Id": "b008b901-370c-4256-a8d8-ee2ddaa93336",
+    "Model": "Ikarus",
+    "Capacity": 55,
+    "Mileage": 359450.07
+  },
+  {
+    "Id": "573b53a7-2770-4ea1-acc0-6baa06386412",
+    "Model": "Scania",
+    "Capacity": 63,
+    "Mileage": 256104.70
+  },
+  {
+    "Id": "f8ab10e3-5653-4c61-9ae1-8ebfeaca9262",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 55,
+    "Mileage": 52062.15
+  },
+  {
+    "Id": "c435e1af-873c-4c97-8fa4-165aca17534d",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 52,
+    "Mileage": 86736.43
+  },
+  {
+    "Id": "ef0c228a-6486-48ee-b2ac-5215111dae3e",
+    "Model": "Ikarus",
+    "Capacity": 34,
+    "Mileage": 221436.48
+  },
+  {
+    "Id": "8faf0174-a96e-456e-8e38-8385f5e842e4",
+    "Model": "Mercedes-Benz",
+    "Capacity": 24,
+    "Mileage": 27907.19
+  },
+  {
+    "Id": "ed4ee470-dcd8-4eaf-b2be-51a5e2a4e277",
+    "Model": "MAN",
+    "Capacity": 25,
+    "Mileage": 373260.81
+  },
+  {
+    "Id": "00cead58-1f14-43e3-b34b-d3a38de89bcf",
+    "Model": "Ikarus",
+    "Capacity": 46,
+    "Mileage": 320206.09
+  },
+  {
+    "Id": "db443613-24d1-4068-8818-03a0cdac88d2",
+    "Model": "Scania",
+    "Capacity": 37,
+    "Mileage": 269654.82
+  },
+  {
+    "Id": "83afff50-4e1e-49fe-806e-5052a6e61fe1",
+    "Model": "Ikarus",
+    "Capacity": 49,
+    "Mileage": 283218.32
+  },
+  {
+    "Id": "d30ad901-5ee6-495a-9ad0-856d58f27f2b",
+    "Model": "Scania",
+    "Capacity": 28,
+    "Mileage": 198146.56
+  },
+  {
+    "Id": "982cbe98-a320-46be-b50b-bf7a29db4dc5",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 34,
+    "Mileage": 202012.08
+  },
+  {
+    "Id": "9c8d1c48-e4ce-4418-b805-96c1178a8758",
+    "Model": "Scania",
+    "Capacity": 26,
+    "Mileage": 371430.07
+  },
+  {
+    "Id": "8ca82ca5-920d-4a86-adfa-fd18de1f1ee8",
+    "Model": "Volvo",
+    "Capacity": 54,
+    "Mileage": 362156.75
+  },
+  {
+    "Id": "a54da108-42d5-4ad3-9a88-3353b8a63331",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 19,
+    "Mileage": 211793.69
+  },
+  {
+    "Id": "74d8a165-26c7-4783-b64e-e4c991a020e1",
+    "Model": "MAN",
+    "Capacity": 32,
+    "Mileage": 145024.91
+  },
+  {
+    "Id": "fa79c088-04a4-4f68-ab6e-028a51245eae",
+    "Model": "MAN",
+    "Capacity": 53,
+    "Mileage": 228505.98
+  },
+  {
+    "Id": "ac4e5039-92cc-454c-be55-ff0fbfd6446e",
+    "Model": "Volvo",
+    "Capacity": 35,
+    "Mileage": 379788.96
+  },
+  {
+    "Id": "143b2ae2-98da-480f-9440-c153ae6f0520",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 55,
+    "Mileage": 94469.91
+  },
+  {
+    "Id": "e05cf2c1-696b-4c4d-ada2-e2373ec7bff6",
+    "Model": "Volvo",
+    "Capacity": 64,
+    "Mileage": 3839.57
+  },
+  {
+    "Id": "00c2bdb1-ad64-4279-a702-4e7c601e4447",
+    "Model": "Volvo",
+    "Capacity": 62,
+    "Mileage": 155794.92
+  },
+  {
+    "Id": "0df43ea1-5a7f-41e6-a5e2-b7c816315849",
+    "Model": "MAN",
+    "Capacity": 21,
+    "Mileage": 178580.75
+  },
+  {
+    "Id": "de33989c-53a1-4cd0-82df-5a19e8b032a2",
+    "Model": "Volvo",
+    "Capacity": 23,
+    "Mileage": 28445.59
+  },
+  {
+    "Id": "10102b09-2c5f-46c3-bea1-243e64e08c32",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 28,
+    "Mileage": 224438.24
+  },
+  {
+    "Id": "7fb79ead-2619-43ea-9238-c8c75c244bc1",
+    "Model": "Volvo",
+    "Capacity": 25,
+    "Mileage": 244600.05
+  },
+  {
+    "Id": "dca9102f-f3cd-4562-ad84-b19ebab6b5a5",
+    "Model": "Ikarus",
+    "Capacity": 55,
+    "Mileage": 220766.22
+  },
+  {
+    "Id": "d4225e78-839b-48e3-8f6c-321188033803",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 218847.38
+  },
+  {
+    "Id": "c9a2d7da-6638-44ef-a5f0-7d2b3fbb8255",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 34,
+    "Mileage": 62843.95
+  },
+  {
+    "Id": "84bb7bc8-ea73-45d6-a7d4-1fde0cf29c3a",
+    "Model": "MAN",
+    "Capacity": 32,
+    "Mileage": 346360.48
+  },
+  {
+    "Id": "1c597596-33b5-4052-adaf-31ed0df8bb92",
+    "Model": "Scania",
+    "Capacity": 38,
+    "Mileage": 131028.69
+  },
+  {
+    "Id": "90802367-271b-4dcd-ad71-3352a4e044d9",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 334515.02
+  },
+  {
+    "Id": "ecd2fa91-7eb6-45a1-b8aa-bd9f46989938",
+    "Model": "Mercedes-Benz",
+    "Capacity": 22,
+    "Mileage": 87067.81
+  },
+  {
+    "Id": "e89cbb61-ebf1-4c71-b920-413ae6ce976c",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 47,
+    "Mileage": 166023.41
+  },
+  {
+    "Id": "37e1e3d2-a315-4385-90c0-dad28523fbb4",
+    "Model": "Ikarus",
+    "Capacity": 59,
+    "Mileage": 224203.69
+  },
+  {
+    "Id": "f5ab95e1-4494-431f-81b1-8dc03b0ff952",
+    "Model": "Volvo",
+    "Capacity": 36,
+    "Mileage": 54574.77
+  },
+  {
+    "Id": "7c5bef93-4e0d-4754-aaec-08b9a5484f71",
+    "Model": "Ikarus",
+    "Capacity": 31,
+    "Mileage": 199621.05
+  },
+  {
+    "Id": "00c95dcc-3ad3-47b3-9605-f70004312f9a",
+    "Model": "MAN",
+    "Capacity": 56,
+    "Mileage": 85522.38
+  },
+  {
+    "Id": "5e6152d4-7487-413c-a339-b7a506b41be5",
+    "Model": "Ikarus",
+    "Capacity": 59,
+    "Mileage": 326315.64
+  },
+  {
+    "Id": "ab35f606-74a6-4283-b4cb-5e6218400691",
+    "Model": "MAN",
+    "Capacity": 58,
+    "Mileage": 343498.32
+  },
+  {
+    "Id": "e97e248d-1c88-4784-ad2d-22a60a43f9d7",
+    "Model": "MAN",
+    "Capacity": 22,
+    "Mileage": 274319.30
+  },
+  {
+    "Id": "96f2d048-0eaf-436d-bc29-2a9ccc3686da",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 20,
+    "Mileage": 367006.08
+  },
+  {
+    "Id": "250929b9-b7d7-4236-9fd9-0977b207f040",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 48,
+    "Mileage": 54247.93
+  },
+  {
+    "Id": "2117437e-ce30-4c60-9b3b-21c3fe7ccc7a",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 34,
+    "Mileage": 17150.02
+  },
+  {
+    "Id": "1cedeac3-c50b-4912-82e1-83b764d9fbd2",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 55,
+    "Mileage": 332866.62
+  },
+  {
+    "Id": "e0997ca1-b85d-4317-9e68-25068de41069",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 76699.79
+  },
+  {
+    "Id": "108e703d-5acc-411e-a451-ce9b55ce16be",
+    "Model": "Ikarus",
+    "Capacity": 57,
+    "Mileage": 169258.74
+  },
+  {
+    "Id": "6df0893e-418a-4efc-8fc6-9a17410c9a29",
+    "Model": "Scania",
+    "Capacity": 30,
+    "Mileage": 376931.55
+  },
+  {
+    "Id": "3d2fc03c-ba8f-4075-8629-bc7b6806e87c",
+    "Model": "Mercedes-Benz",
+    "Capacity": 22,
+    "Mileage": 285696.18
+  },
+  {
+    "Id": "b0aa47b7-33a6-43a0-b61b-6128bd532f19",
+    "Model": "Scania",
+    "Capacity": 47,
+    "Mileage": 147078.28
+  },
+  {
+    "Id": "1e55898b-69ff-483c-be02-a3c9e57d6514",
+    "Model": "Ikarus",
+    "Capacity": 22,
+    "Mileage": 45065.64
+  },
+  {
+    "Id": "96a96cb9-bf5c-48a5-8a01-c31053b62e00",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 57,
+    "Mileage": 315368.43
+  },
+  {
+    "Id": "3cf6301b-b379-4dbc-b68a-50dff03d012d",
+    "Model": "Ikarus",
+    "Capacity": 63,
+    "Mileage": 201130.61
+  },
+  {
+    "Id": "69d4d946-b64f-4337-81f7-1b757ab0d674",
+    "Model": "Volvo",
+    "Capacity": 25,
+    "Mileage": 33446.51
+  },
+  {
+    "Id": "0d5638fd-6c9a-4191-9d63-0298c12283f4",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 51,
+    "Mileage": 190791.40
+  },
+  {
+    "Id": "c8a0bc62-9566-48cb-ab08-4b9cab3f2e2e",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 23,
+    "Mileage": 5839.68
+  },
+  {
+    "Id": "8a983010-9853-4505-88f4-b9c35e7c168f",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 23,
+    "Mileage": 383470.33
+  },
+  {
+    "Id": "4c76f0b8-f4c5-452d-993d-937e1d62bfe5",
+    "Model": "Mercedes-Benz",
+    "Capacity": 26,
+    "Mileage": 229749.21
+  },
+  {
+    "Id": "ea23d4a0-a702-4e66-a615-ba243fa86059",
+    "Model": "MAN",
+    "Capacity": 62,
+    "Mileage": 30302.82
+  },
+  {
+    "Id": "df5908a1-189a-48fa-a920-5ff29fb128c0",
+    "Model": "Mercedes-Benz",
+    "Capacity": 27,
+    "Mileage": 14641.98
+  },
+  {
+    "Id": "f1a9a8a8-36cd-410e-a288-343b597d3407",
+    "Model": "Mercedes-Benz",
+    "Capacity": 63,
+    "Mileage": 3371.95
+  },
+  {
+    "Id": "4ffcb7f5-9ddf-4d9a-a6f8-8b5aaca011f1",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 28,
+    "Mileage": 320727.81
+  },
+  {
+    "Id": "b42a5c37-e69d-4ad1-99c2-b0f99ce659a7",
+    "Model": "MAN",
+    "Capacity": 41,
+    "Mileage": 257733.35
+  },
+  {
+    "Id": "9010722e-729a-4436-af11-1c103413ed2a",
+    "Model": "Mercedes-Benz",
+    "Capacity": 24,
+    "Mileage": 56159.34
+  },
+  {
+    "Id": "f38ae356-b2ab-4bf4-ac0f-bc8176bd237c",
+    "Model": "Scania",
+    "Capacity": 57,
+    "Mileage": 389674.29
+  },
+  {
+    "Id": "47ca754a-6727-4cbd-8c66-bcfbb5f57876",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 26,
+    "Mileage": 96519.84
+  },
+  {
+    "Id": "6aa2dfba-44da-4b3a-85fa-d606b4290d16",
+    "Model": "Ikarus",
+    "Capacity": 56,
+    "Mileage": 388286.11
+  },
+  {
+    "Id": "66fa0c34-7742-4cda-add4-7ab386fe9d52",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 5135.57
+  },
+  {
+    "Id": "8290c4aa-93fe-48b5-8919-90e379a14b99",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 45,
+    "Mileage": 140738.04
+  },
+  {
+    "Id": "ec36de78-cd22-4b0e-81b0-5ec8a718dbf0",
+    "Model": "Ikarus",
+    "Capacity": 43,
+    "Mileage": 33583.83
+  },
+  {
+    "Id": "04113db4-e432-4d86-b0ce-bc05a9ab0b55",
+    "Model": "Mercedes-Benz",
+    "Capacity": 61,
+    "Mileage": 270677.31
+  },
+  {
+    "Id": "90781ee9-0f33-440e-955f-11baed3da020",
+    "Model": "MAN",
+    "Capacity": 54,
+    "Mileage": 189046.00
+  },
+  {
+    "Id": "e5e536cf-bd67-4a23-b757-d4a890e21d42",
+    "Model": "Mercedes-Benz",
+    "Capacity": 36,
+    "Mileage": 333636.27
+  },
+  {
+    "Id": "9b572276-81ad-4723-bf6c-e4cf6826cba8",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 43,
+    "Mileage": 223259.89
+  },
+  {
+    "Id": "ff45147d-b040-4800-b8c5-bf911fa9cdcd",
+    "Model": "Volvo",
+    "Capacity": 34,
+    "Mileage": 22587.50
+  },
+  {
+    "Id": "04db001e-8d55-4013-a3db-183ae6dbc930",
+    "Model": "Mercedes-Benz",
+    "Capacity": 34,
+    "Mileage": 375795.36
+  },
+  {
+    "Id": "edbc4540-bd59-4b29-b43e-e74a291d51ec",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 60,
+    "Mileage": 166506.18
+  },
+  {
+    "Id": "5c48a0c0-afc7-4f8f-9c63-614b6934d6b1",
+    "Model": "Scania",
+    "Capacity": 37,
+    "Mileage": 14843.42
+  },
+  {
+    "Id": "3d58eca2-7b92-46ed-abfd-51711982f63c",
+    "Model": "MAN",
+    "Capacity": 59,
+    "Mileage": 311299.69
+  },
+  {
+    "Id": "7c3e4051-0851-4591-b51e-14ed2dfe7f31",
+    "Model": "Mercedes-Benz",
+    "Capacity": 33,
+    "Mileage": 237176.71
+  },
+  {
+    "Id": "b8358197-ac73-404f-bc2f-fc2e561897ce",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 39,
+    "Mileage": 230877.01
+  },
+  {
+    "Id": "2996db1d-35b8-4275-9997-200685658103",
+    "Model": "Ikarus",
+    "Capacity": 19,
+    "Mileage": 331580.62
+  },
+  {
+    "Id": "bb1558ac-57f4-44c5-a525-48574972ad97",
+    "Model": "Volvo",
+    "Capacity": 28,
+    "Mileage": 319854.53
+  },
+  {
+    "Id": "e7f1a9b0-271e-4118-8abf-2c6858b7198b",
+    "Model": "Scania",
+    "Capacity": 53,
+    "Mileage": 50356.17
+  },
+  {
+    "Id": "50cd0efa-9cfc-4a86-a018-4776fc0b1a8d",
+    "Model": "Scania",
+    "Capacity": 58,
+    "Mileage": 137834.50
+  },
+  {
+    "Id": "cc80c4b0-4d64-47e2-8acf-f99cf9cc028a",
+    "Model": "Ikarus",
+    "Capacity": 64,
+    "Mileage": 21309.41
+  },
+  {
+    "Id": "4a9fc8f3-8347-4d94-b4ae-db72bc45215b",
+    "Model": "Scania",
+    "Capacity": 29,
+    "Mileage": 379496.53
+  },
+  {
+    "Id": "533cffc9-6174-4e09-8295-a778addcfb85",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 58,
+    "Mileage": 68078.68
+  },
+  {
+    "Id": "dfe24cc6-dbe1-4d4d-8e17-10f5ea1008e3",
+    "Model": "\u0411\u043E\u0433\u0434\u0430\u043D",
+    "Capacity": 43,
+    "Mileage": 291889.62
+  },
+  {
+    "Id": "7189f9c3-b7eb-47b5-8df7-76016373fc9e",
+    "Model": "Scania",
+    "Capacity": 34,
+    "Mileage": 296131.40
+  },
+  {
+    "Id": "0ca39cdd-9eff-4876-a0f9-d6811bec4674",
+    "Model": "Ikarus",
+    "Capacity": 22,
+    "Mileage": 216753.75
+  },
+  {
+    "Id": "855742b5-53d4-4df6-90f0-c6d4d50b8970",
+    "Model": "MAN",
+    "Capacity": 41,
+    "Mileage": 162967.13
+  },
+  {
+    "Id": "979fb5db-7542-48d0-b8a9-06ba4edfe9cf",
+    "Model": "MAN",
+    "Capacity": 43,
+    "Mileage": 377749.27
+  },
+  {
+    "Id": "3b8cf2ab-3304-4c20-a3f0-defc5b4573f9",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 18,
+    "Mileage": 90108.61
+  },
+  {
+    "Id": "52d8587a-bc81-4222-8667-3987278e5f11",
+    "Model": "MAN",
+    "Capacity": 64,
+    "Mileage": 182990.35
+  },
+  {
+    "Id": "76ed7ad9-6793-47cc-9d04-523426037cce",
+    "Model": "\u0415\u0442\u0430\u043B\u043E\u043D",
+    "Capacity": 54,
+    "Mileage": 206606.31
+  },
+  {
+    "Id": "43821d25-ffa7-49af-b83a-c19abb08d963",
+    "Model": "Scania",
+    "Capacity": 62,
+    "Mileage": 185494.75
+  },
+  {
+    "Id": "eb4ec193-f662-42f4-85c3-7f11274d9df6",
+    "Model": "Volvo",
+    "Capacity": 56,
+    "Mileage": 262743.85
+  },
+  {
+    "Id": "afc8d3ba-298b-4cbd-b0f9-c19479ededf1",
+    "Model": "Ikarus",
+    "Capacity": 60,
+    "Mileage": 251952.86
+  },
+  {
+    "Id": "abdc1963-d6a8-4b4d-95e1-39326e2eaffc",
+    "Model": "Scania",
+    "Capacity": 56,
+    "Mileage": 379969.41
+  },
+  {
+    "Id": "d332be41-2221-41d3-92cb-657ed206eb05",
+    "Model": "Scania",
+    "Capacity": 41,
+    "Mileage": 15687.28
+  },
+  {
+    "Id": "192f318a-2368-4ade-8ffe-d074f5169cfe",
+    "Model": "Mercedes-Benz",
+    "Capacity": 55,
+    "Mileage": 198152.32
+  },
+  {
+    "Id": "ab9fd646-a50a-4067-b610-66e9bc6401df",
+    "Model": "Ikarus",
+    "Capacity": 27,
+    "Mileage": 311842.16
+  },
+  {
+    "Id": "8a16a79a-9b2c-4b9f-ac10-55cc17bc8a42",
+    "Model": "Mercedes-Benz",
+    "Capacity": 63,
+    "Mileage": 304251.86
+  },
+  {
+    "Id": "aa406efc-cd0e-4ac1-a80e-a4b88beb6ce9",
+    "Model": "Volvo",
+    "Capacity": 34,
+    "Mileage": 348115.78
+  },
+  {
+    "Id": "a8023c23-b285-46fc-96ed-924d5c7120b4",
+    "Model": "Mercedes-Benz",
+    "Capacity": 40,
+    "Mileage": 295901.39
+  },
+  {
+    "Id": "cf11cc2f-ae6b-4d20-8c85-d024bf658bda",
+    "Model": "Volvo",
+    "Capacity": 44,
+    "Mileage": 146199.78
+  },
+  {
+    "Id": "4db0a3ed-ccd8-4468-8ac2-aedc78fb324a",
+    "Model": "Scania",
+    "Capacity": 28,
+    "Mileage": 73475.06
+  }
+]
